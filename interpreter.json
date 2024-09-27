@@ -1,0 +1,7762 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.1 084b4234",
+  "osm3s": {
+    "timestamp_osm_base": "2024-09-26T10:35:29Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 724238900,
+  "lat": 15.2504566,
+  "lon": 73.9273103,
+  "tags": {
+    "amenity": "pub",
+    "name": "Jack's Corner"
+  }
+},
+{
+  "type": "node",
+  "id": 1002504913,
+  "lat": 15.2772700,
+  "lon": 73.9162070,
+  "tags": {
+    "amenity": "bar",
+    "name": "Leda Lounge Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 1002504916,
+  "lat": 15.2789420,
+  "lon": 73.9128129,
+  "tags": {
+    "amenity": "bar",
+    "name": "Boomerang Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 1002516904,
+  "lat": 15.2460151,
+  "lon": 73.9228209,
+  "tags": {
+    "amenity": "pub",
+    "name": "Sun n Moon Bar and Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 1002516921,
+  "lat": 15.2504578,
+  "lon": 73.9227602,
+  "tags": {
+    "amenity": "pub",
+    "name": "Art Escape"
+  }
+},
+{
+  "type": "node",
+  "id": 1002582342,
+  "lat": 15.2617815,
+  "lon": 73.9303776,
+  "tags": {
+    "amenity": "bar",
+    "name": "Fiplee's Restaurant Pubs"
+  }
+},
+{
+  "type": "node",
+  "id": 1632952481,
+  "lat": 15.2829076,
+  "lon": 73.9802715,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 1711427494,
+  "lat": 15.2610136,
+  "lon": 73.9300170,
+  "tags": {
+    "amenity": "atm",
+    "operator": "Bank of Baroda",
+    "source": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 1715059918,
+  "lat": 15.2621333,
+  "lon": 73.9177277,
+  "tags": {
+    "amenity": "restaurant",
+    "internet_access": "no",
+    "name": "Anthys"
+  }
+},
+{
+  "type": "node",
+  "id": 1715059925,
+  "lat": 15.2486329,
+  "lon": 73.9269784,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "catholic",
+    "name": "Holy Cross Chapell",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 1715059929,
+  "lat": 15.2638207,
+  "lon": 73.9176966,
+  "tags": {
+    "amenity": "bar",
+    "internet_access": "terminal",
+    "internet_access:fee": "yes",
+    "name": "Internet Office"
+  }
+},
+{
+  "type": "node",
+  "id": 1889370739,
+  "lat": 15.2860649,
+  "lon": 73.9580987,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Margao Fish Market",
+    "shop": "fishmonger"
+  }
+},
+{
+  "type": "node",
+  "id": 1889370743,
+  "lat": 15.2854284,
+  "lon": 73.9580290,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Margao Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2082435927,
+  "lat": 15.2763603,
+  "lon": 73.9814325,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Maruthi Mandhir",
+    "religion": "hindu"
+  }
+},
+{
+  "type": "node",
+  "id": 2306074664,
+  "lat": 15.2441584,
+  "lon": 73.9248306,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 2306074706,
+  "lat": 15.2437133,
+  "lon": 73.9250103,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 2623300530,
+  "lat": 15.2812958,
+  "lon": 73.9119067,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Antonio Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 2623300551,
+  "lat": 15.2818071,
+  "lon": 73.9118019,
+  "tags": {
+    "amenity": "cafe",
+    "internet_access": "wlan",
+    "name": "Пинаколада"
+  }
+},
+{
+  "type": "node",
+  "id": 2623300582,
+  "lat": 15.2814857,
+  "lon": 73.9118600,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Silver Spoon"
+  }
+},
+{
+  "type": "node",
+  "id": 2623300593,
+  "lat": 15.2821675,
+  "lon": 73.9117347,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "The Seahorse"
+  }
+},
+{
+  "type": "node",
+  "id": 2623365433,
+  "lat": 15.2757482,
+  "lon": 73.9139240,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Bennys Place"
+  }
+},
+{
+  "type": "node",
+  "id": 2623365434,
+  "lat": 15.2774132,
+  "lon": 73.9133257,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Bob's Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 2623365437,
+  "lat": 15.2637702,
+  "lon": 73.9170860,
+  "tags": {
+    "amenity": "restaurant",
+    "capacity": "35",
+    "cuisine": "regional;indian;cocktails;seafood",
+    "name": "Cecilia Beach Shack",
+    "outdoor_seating": "yes",
+    "smoking": "no",
+    "takeaway": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2623365438,
+  "lat": 15.2752937,
+  "lon": 73.9139186,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Cocktails & Dreams"
+  }
+},
+{
+  "type": "node",
+  "id": 2623365440,
+  "lat": 15.2753992,
+  "lon": 73.9139325,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Domnicks Sea Food"
+  }
+},
+{
+  "type": "node",
+  "id": 2623365441,
+  "lat": 15.2640483,
+  "lon": 73.9170215,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Gois Beach Shack"
+  }
+},
+{
+  "type": "node",
+  "id": 2623365443,
+  "lat": 15.2761269,
+  "lon": 73.9137823,
+  "tags": {
+    "amenity": "lifeguard",
+    "building": "yes",
+    "emergency_service": "lifeguard",
+    "name": "Lifeguard"
+  }
+},
+{
+  "type": "node",
+  "id": 2623365444,
+  "lat": 15.2747275,
+  "lon": 73.9139577,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "MAAnys's"
+  }
+},
+{
+  "type": "node",
+  "id": 2623365446,
+  "lat": 15.2726744,
+  "lon": 73.9147570,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Papilllon"
+  }
+},
+{
+  "type": "node",
+  "id": 2623365453,
+  "lat": 15.2751813,
+  "lon": 73.9139241,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Rendevouz Beach Shack"
+  }
+},
+{
+  "type": "node",
+  "id": 2623365454,
+  "lat": 15.2637016,
+  "lon": 73.9171316,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Samrosa Beach Shack"
+  }
+},
+{
+  "type": "node",
+  "id": 2623365455,
+  "lat": 15.2734499,
+  "lon": 73.9145873,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Sand Pat"
+  }
+},
+{
+  "type": "node",
+  "id": 2623365456,
+  "lat": 15.2756197,
+  "lon": 73.9139460,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Sea, Sun and Sand Shack"
+  }
+},
+{
+  "type": "node",
+  "id": 2623365457,
+  "lat": 15.2717284,
+  "lon": 73.9149732,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Sucorina"
+  }
+},
+{
+  "type": "node",
+  "id": 2623365459,
+  "lat": 15.2755088,
+  "lon": 73.9139242,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "The Lounge"
+  }
+},
+{
+  "type": "node",
+  "id": 2623365460,
+  "lat": 15.2749641,
+  "lon": 73.9139463,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "U U's Planet"
+  }
+},
+{
+  "type": "node",
+  "id": 2623365461,
+  "lat": 15.2648451,
+  "lon": 73.9168661,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Xavier"
+  }
+},
+{
+  "type": "node",
+  "id": 2623715239,
+  "lat": 15.2792152,
+  "lon": 73.9144930,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Antony's Sizzling Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 2623715246,
+  "lat": 15.2758429,
+  "lon": 73.9145960,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Atul Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 2623715252,
+  "lat": 15.2813317,
+  "lon": 73.9141159,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Caji's Place"
+  }
+},
+{
+  "type": "node",
+  "id": 2623715289,
+  "lat": 15.2755906,
+  "lon": 73.9147752,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Josefa's Corner"
+  }
+},
+{
+  "type": "node",
+  "id": 2623715291,
+  "lat": 15.2758839,
+  "lon": 73.9144892,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Kentuckee"
+  }
+},
+{
+  "type": "node",
+  "id": 2623715303,
+  "lat": 15.2771589,
+  "lon": 73.9145270,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Little Goa Family Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 2623715346,
+  "lat": 15.2761445,
+  "lon": 73.9149603,
+  "tags": {
+    "amenity": "atm",
+    "brand": "ING"
+  }
+},
+{
+  "type": "node",
+  "id": 2623715351,
+  "lat": 15.2796294,
+  "lon": 73.9137742,
+  "tags": {
+    "amenity": "place_of_worship",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 2623715358,
+  "lat": 15.2809306,
+  "lon": 73.9137847,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Ria's Cuisine"
+  }
+},
+{
+  "type": "node",
+  "id": 2630378914,
+  "lat": 15.2578407,
+  "lon": 73.9281178,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 2634447589,
+  "lat": 15.3009985,
+  "lon": 73.9205595,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Our Lady of Remedios",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 2634447592,
+  "lat": 15.3008431,
+  "lon": 73.9211478,
+  "tags": {
+    "amenity": "atm",
+    "brand": "HDFC"
+  }
+},
+{
+  "type": "node",
+  "id": 2634447594,
+  "lat": 15.3009474,
+  "lon": 73.9196306,
+  "tags": {
+    "amenity": "post_office"
+  }
+},
+{
+  "type": "node",
+  "id": 2634447597,
+  "lat": 15.3010293,
+  "lon": 73.9196225,
+  "tags": {
+    "amenity": "townhall"
+  }
+},
+{
+  "type": "node",
+  "id": 2634447598,
+  "lat": 15.3011366,
+  "lon": 73.9217381,
+  "tags": {
+    "amenity": "place_of_worship",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 2635792326,
+  "lat": 15.2499965,
+  "lon": 73.9219178,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Hawaii Garden"
+  }
+},
+{
+  "type": "node",
+  "id": 2635792331,
+  "lat": 15.2492640,
+  "lon": 73.9215497,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Johnny Fisher"
+  }
+},
+{
+  "type": "node",
+  "id": 2635792778,
+  "lat": 15.2460217,
+  "lon": 73.9224015,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Sea Food Point"
+  }
+},
+{
+  "type": "node",
+  "id": 2637221111,
+  "lat": 15.2612881,
+  "lon": 73.9181244,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Be@One Beach Shack"
+  }
+},
+{
+  "type": "node",
+  "id": 2637221113,
+  "lat": 15.2588443,
+  "lon": 73.9185933,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Blue Corner"
+  }
+},
+{
+  "type": "node",
+  "id": 2637221117,
+  "lat": 15.2543692,
+  "lon": 73.9199220,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Coco's"
+  }
+},
+{
+  "type": "node",
+  "id": 2637221121,
+  "lat": 15.2551312,
+  "lon": 73.9197260,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Domnick Beach Shack"
+  }
+},
+{
+  "type": "node",
+  "id": 2637221125,
+  "lat": 15.2577500,
+  "lon": 73.9189236,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Gracias"
+  }
+},
+{
+  "type": "node",
+  "id": 2637221126,
+  "lat": 15.2578549,
+  "lon": 73.9188682,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Ice Cube"
+  }
+},
+{
+  "type": "node",
+  "id": 2637221130,
+  "lat": 15.2568584,
+  "lon": 73.9192170,
+  "tags": {
+    "amenity": "lifeguard",
+    "building": "yes",
+    "emergency_service": "lifeguard",
+    "name": "Lifeguard"
+  }
+},
+{
+  "type": "node",
+  "id": 2637221131,
+  "lat": 15.2586727,
+  "lon": 73.9186502,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Little Tiger"
+  }
+},
+{
+  "type": "node",
+  "id": 2637221133,
+  "lat": 15.2547780,
+  "lon": 73.9198378,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Malibu"
+  }
+},
+{
+  "type": "node",
+  "id": 2637221135,
+  "lat": 15.2571818,
+  "lon": 73.9196938,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Pedro's"
+  }
+},
+{
+  "type": "node",
+  "id": 2637221259,
+  "lat": 15.2522318,
+  "lon": 73.9346116,
+  "tags": {
+    "amenity": "place_of_worship",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 2637221309,
+  "lat": 15.2575869,
+  "lon": 73.9189597,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Roger's"
+  }
+},
+{
+  "type": "node",
+  "id": 2637221313,
+  "lat": 15.2553433,
+  "lon": 73.9196862,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "The Mahal"
+  }
+},
+{
+  "type": "node",
+  "id": 2663546443,
+  "lat": 15.2332770,
+  "lon": 73.9434369,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "LN Medical Store"
+  }
+},
+{
+  "type": "node",
+  "id": 2663546445,
+  "lat": 15.2330917,
+  "lon": 73.9434753,
+  "tags": {
+    "amenity": "atm",
+    "name": "Kotak Bank"
+  }
+},
+{
+  "type": "node",
+  "id": 2663546446,
+  "lat": 15.2443069,
+  "lon": 73.9391782,
+  "tags": {
+    "amenity": "atm",
+    "operator": "ICICI Bank"
+  }
+},
+{
+  "type": "node",
+  "id": 2695042402,
+  "lat": 15.2715269,
+  "lon": 73.9586875,
+  "tags": {
+    "amenity": "atm",
+    "brand": "BoI"
+  }
+},
+{
+  "type": "node",
+  "id": 2695042428,
+  "lat": 15.2779900,
+  "lon": 73.9588506,
+  "tags": {
+    "amenity": "fuel",
+    "brand": "Bharat",
+    "name": "Bharat Petroleum"
+  }
+},
+{
+  "type": "node",
+  "id": 2695042472,
+  "lat": 15.2448443,
+  "lon": 73.9719767,
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "chapel",
+    "name": "St. Francis",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 3244375305,
+  "lat": 15.2893144,
+  "lon": 73.9543227,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Paolo bus station"
+  }
+},
+{
+  "type": "node",
+  "id": 3244375314,
+  "lat": 15.2898345,
+  "lon": 73.9548585,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "KFC",
+    "brand:pa": "ਕੇਐਫਸੀ",
+    "brand:ur": "کینٹکی فرائیڈ چکن",
+    "brand:wikidata": "Q524757",
+    "brand:wikipedia": "en:KFC",
+    "brand:wikipedia:pa": "ਕੇਐਫਸੀ",
+    "brand:wikipedia:ur": "کینٹکی فرائیڈ چکن",
+    "name": "KFC",
+    "name:pa": "ਕੇਐਫਸੀ",
+    "name:ur": "کینٹکی فرائیڈ چکن"
+  }
+},
+{
+  "type": "node",
+  "id": 3251037078,
+  "lat": 15.3110796,
+  "lon": 73.9446916,
+  "tags": {
+    "amenity": "bank",
+    "name": "Indian Overseas"
+  }
+},
+{
+  "type": "node",
+  "id": 3251049869,
+  "lat": 15.3082393,
+  "lon": 73.9296181,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q1340361",
+    "brand:wikipedia": "en:State Bank of India",
+    "name": "State Bank of India",
+    "short_name": "SBI",
+    "wikidata": "Q65979483"
+  }
+},
+{
+  "type": "node",
+  "id": 3251050623,
+  "lat": 15.2914113,
+  "lon": 73.9539513,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Tato"
+  }
+},
+{
+  "type": "node",
+  "id": 3251053616,
+  "lat": 15.2880960,
+  "lon": 73.9552057,
+  "tags": {
+    "amenity": "atm",
+    "name": "South Indian Bank"
+  }
+},
+{
+  "type": "node",
+  "id": 3289823878,
+  "lat": 15.2741821,
+  "lon": 73.9572573,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Old Bus Stand"
+  }
+},
+{
+  "type": "node",
+  "id": 3289901176,
+  "lat": 15.2763660,
+  "lon": 73.9146073,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "local busses"
+  }
+},
+{
+  "type": "node",
+  "id": 3289901177,
+  "lat": 15.2761506,
+  "lon": 73.9147904,
+  "tags": {
+    "amenity": "taxi"
+  }
+},
+{
+  "type": "node",
+  "id": 3300012426,
+  "lat": 15.2877638,
+  "lon": 73.9557172,
+  "tags": {
+    "amenity": "toilets"
+  }
+},
+{
+  "type": "node",
+  "id": 3300014933,
+  "lat": 15.2738671,
+  "lon": 73.9574680,
+  "tags": {
+    "amenity": "fuel",
+    "compressed_air": "yes",
+    "name": "Bharat Petroleum"
+  }
+},
+{
+  "type": "node",
+  "id": 3314013601,
+  "lat": 15.2674113,
+  "lon": 73.9713061,
+  "tags": {
+    "amenity": "taxi"
+  }
+},
+{
+  "type": "node",
+  "id": 3799318430,
+  "lat": 15.2789557,
+  "lon": 73.9230778,
+  "tags": {
+    "amenity": "post_office",
+    "name": "Colva Post Offie",
+    "operator": "India Post",
+    "ref": "403708",
+    "source": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 3923406742,
+  "lat": 15.2620850,
+  "lon": 73.9373932,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "AJ's Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 3949387057,
+  "lat": 15.2815699,
+  "lon": 73.9789761,
+  "tags": {
+    "amenity": "bank",
+    "atm": "yes",
+    "brand:wikidata": "Q2003387",
+    "brand:wikipedia": "en:Corporation Bank",
+    "name": "Corporation Bank",
+    "name:en": "Corporation Bank",
+    "website": "https://corpbank.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3961907300,
+  "lat": 15.2730304,
+  "lon": 73.9581650,
+  "tags": {
+    "amenity": "toilets"
+  }
+},
+{
+  "type": "node",
+  "id": 3961914545,
+  "lat": 15.2863396,
+  "lon": 73.9573540,
+  "tags": {
+    "amenity": "toilets"
+  }
+},
+{
+  "type": "node",
+  "id": 4107837420,
+  "lat": 15.2430520,
+  "lon": 73.9298550,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Cavatina Cuchina"
+  }
+},
+{
+  "type": "node",
+  "id": 4107890589,
+  "lat": 15.2726180,
+  "lon": 73.9606000,
+  "tags": {
+    "amenity": "fast_food",
+    "brand": "Domino's",
+    "brand:ks": "ڈومینوز",
+    "brand:pa": "ਡੋਮੀਨੋਜ਼",
+    "brand:ur": "ڈومینوز",
+    "brand:wikidata": "Q839466",
+    "brand:wikipedia": "en:Domino's Pizza",
+    "name": "Domino's",
+    "name:ks": "ڈومینوز",
+    "name:pa": "ਡੋਮੀਨੋਜ਼",
+    "name:ur": "ڈومینوز"
+  }
+},
+{
+  "type": "node",
+  "id": 4107935716,
+  "lat": 15.2715774,
+  "lon": 73.9660427,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Navtara"
+  }
+},
+{
+  "type": "node",
+  "id": 4109577090,
+  "lat": 15.2718160,
+  "lon": 73.9656900,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Carmelite Monastery",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 4110837689,
+  "lat": 15.2595005,
+  "lon": 73.9251100,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "The Pavillion"
+  }
+},
+{
+  "type": "node",
+  "id": 4110938290,
+  "lat": 15.2573642,
+  "lon": 73.9193376,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Johncy's"
+  }
+},
+{
+  "type": "node",
+  "id": 4110939490,
+  "lat": 15.2576550,
+  "lon": 73.9279560,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "La Trattoria"
+  }
+},
+{
+  "type": "node",
+  "id": 4111396389,
+  "lat": 15.2706590,
+  "lon": 73.9579300,
+  "tags": {
+    "amenity": "cinema",
+    "name": "Cine Lata"
+  }
+},
+{
+  "type": "node",
+  "id": 4112027704,
+  "lat": 15.2567500,
+  "lon": 73.9195800,
+  "tags": {
+    "amenity": "bar",
+    "name": "Rafael's"
+  }
+},
+{
+  "type": "node",
+  "id": 4112105394,
+  "lat": 15.2744076,
+  "lon": 73.9591629,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Konkani Coastal Food Delicacy"
+  }
+},
+{
+  "type": "node",
+  "id": 4113835698,
+  "lat": 15.2786530,
+  "lon": 73.9584600,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Chickoo Tree",
+    "note": "air-conditioned",
+    "outdoor_seating": "no",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4113869491,
+  "lat": 15.2783770,
+  "lon": 73.9593200,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Smoking Joe's fresh pizza"
+  }
+},
+{
+  "type": "node",
+  "id": 4113869690,
+  "lat": 15.2777180,
+  "lon": 73.9610600,
+  "tags": {
+    "amenity": "bar",
+    "name": "Anushka"
+  }
+},
+{
+  "type": "node",
+  "id": 4114499647,
+  "lat": 15.2852619,
+  "lon": 73.9629858,
+  "tags": {
+    "amenity": "theatre",
+    "name": "Ravindra Bhavan"
+  }
+},
+{
+  "type": "node",
+  "id": 4114502622,
+  "lat": 15.2965940,
+  "lon": 73.9702600,
+  "tags": {
+    "amenity": "fuel",
+    "name": "HP PETROL PUMP - DURGA S.CENTRE"
+  }
+},
+{
+  "type": "node",
+  "id": 4114502623,
+  "lat": 15.2747345,
+  "lon": 73.9779050,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Near Power House, Aquem",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Dr. Lawande's Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 4193479101,
+  "lat": 15.2719486,
+  "lon": 73.9571833,
+  "tags": {
+    "amenity": "bank",
+    "brand": "Canara Bank",
+    "brand:pa": "ਕੇਨਰਾ ਬੈਂਕ",
+    "brand:ur": "کینرا بینک",
+    "brand:wikidata": "Q2003777",
+    "brand:wikipedia": "en:Canara Bank",
+    "brand:wikipedia:pa": "ਕੇਨਰਾ ਬੈਂਕ",
+    "name": "Canara Bank",
+    "name:pa": "ਕੇਨਰਾ ਬੈਂਕ",
+    "name:ur": "کینرا بینک",
+    "website": "https://www.canarabank.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4193479196,
+  "lat": 15.2729859,
+  "lon": 73.9601408,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q1340361",
+    "name": "State Bank of Mysore"
+  }
+},
+{
+  "type": "node",
+  "id": 4193479198,
+  "lat": 15.2745758,
+  "lon": 73.9572224,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Bharat Petroleum"
+  }
+},
+{
+  "type": "node",
+  "id": 4193486195,
+  "lat": 15.2723491,
+  "lon": 73.9577717,
+  "tags": {
+    "amenity": "bank",
+    "brand": "HDFC",
+    "brand:wikidata": "Q631047",
+    "brand:wikipedia": "en:HDFC Bank",
+    "name": "HDFC Bank",
+    "short_name": "HDFC",
+    "website": "https://www.hdfcbank.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4193486198,
+  "lat": 15.2719415,
+  "lon": 73.9577267,
+  "tags": {
+    "amenity": "pub",
+    "name": "Longuinhos"
+  }
+},
+{
+  "type": "node",
+  "id": 4193506901,
+  "lat": 15.2719520,
+  "lon": 73.9566570,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Bharat Petroleum"
+  }
+},
+{
+  "type": "node",
+  "id": 4193506902,
+  "lat": 15.2768104,
+  "lon": 73.9583091,
+  "tags": {
+    "amenity": "fuel",
+    "name": "HP"
+  }
+},
+{
+  "type": "node",
+  "id": 4193506903,
+  "lat": 15.2768667,
+  "lon": 73.9583505,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Coffee Day"
+  }
+},
+{
+  "type": "node",
+  "id": 4193518596,
+  "lat": 15.2719812,
+  "lon": 73.9609203,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "diet:vegetarian": "yes",
+    "name": "SWAD Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4193520595,
+  "lat": 15.2729157,
+  "lon": 73.9586136,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "local",
+    "name": "Kamat"
+  }
+},
+{
+  "type": "node",
+  "id": 4193548190,
+  "lat": 15.2717735,
+  "lon": 73.9602287,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Royal foods"
+  }
+},
+{
+  "type": "node",
+  "id": 4196802490,
+  "lat": 15.2538594,
+  "lon": 73.9285783,
+  "tags": {
+    "amenity": "place_of_worship"
+  }
+},
+{
+  "type": "node",
+  "id": 4196805992,
+  "lat": 15.2556566,
+  "lon": 73.9282782,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 4196806589,
+  "lat": 15.2551579,
+  "lon": 73.9279252,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Malibu"
+  }
+},
+{
+  "type": "node",
+  "id": 4223943791,
+  "lat": 15.2761297,
+  "lon": 73.9171533,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Flavours Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4225389589,
+  "lat": 15.2810300,
+  "lon": 73.9835100,
+  "tags": {
+    "amenity": "place_of_worship"
+  }
+},
+{
+  "type": "node",
+  "id": 4225491204,
+  "lat": 15.2817339,
+  "lon": 73.9810847,
+  "tags": {
+    "amenity": "pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 4225504302,
+  "lat": 15.2807750,
+  "lon": 73.9859400,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Paras"
+  }
+},
+{
+  "type": "node",
+  "id": 4226766205,
+  "lat": 15.2730128,
+  "lon": 73.9571559,
+  "tags": {
+    "amenity": "school",
+    "name": "Fatima High School",
+    "survey:date": "2023-09-14"
+  }
+},
+{
+  "type": "node",
+  "id": 4226849234,
+  "lat": 15.2749087,
+  "lon": 73.9593251,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese;indian",
+    "name": "La Marina Family Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4230468400,
+  "lat": 15.2551300,
+  "lon": 73.9441000,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Bharat Petroleum"
+  }
+},
+{
+  "type": "node",
+  "id": 4230469490,
+  "lat": 15.2609401,
+  "lon": 73.9460406,
+  "tags": {
+    "amenity": "dentist",
+    "healthcare": "dentist",
+    "name": "Fernandes Dental Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4232974391,
+  "lat": 15.2831920,
+  "lon": 73.9668660,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q2018840",
+    "brand:wikipedia": "en:Allahabad Bank",
+    "name": "Allahabad Bank",
+    "name:en": "Allahabad Bank",
+    "name:kn": "ಅಲ್ಲಹಾಬಾದ್ ಬ್ಯಾಂಕ್",
+    "website": "https://www.allahabadbank.in"
+  }
+},
+{
+  "type": "node",
+  "id": 4232976091,
+  "lat": 15.2835330,
+  "lon": 73.9668500,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Kallika"
+  }
+},
+{
+  "type": "node",
+  "id": 4233030789,
+  "lat": 15.2846620,
+  "lon": 73.9759750,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Raj Medical Stores"
+  }
+},
+{
+  "type": "node",
+  "id": 4233033989,
+  "lat": 15.2919000,
+  "lon": 73.9752200,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Modern Chemist and Druggist"
+  }
+},
+{
+  "type": "node",
+  "id": 4235447184,
+  "lat": 15.2637961,
+  "lon": 73.9174538,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Furtado's Beach House"
+  }
+},
+{
+  "type": "node",
+  "id": 4236943790,
+  "lat": 15.2748389,
+  "lon": 73.9571225,
+  "tags": {
+    "amenity": "library",
+    "name": "Gomant Vidya Niketan"
+  }
+},
+{
+  "type": "node",
+  "id": 4236971090,
+  "lat": 15.2773942,
+  "lon": 73.9568591,
+  "tags": {
+    "amenity": "childcare",
+    "name": "Bambi"
+  }
+},
+{
+  "type": "node",
+  "id": 4236975089,
+  "lat": 15.2733990,
+  "lon": 73.9564400,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "China Gate"
+  }
+},
+{
+  "type": "node",
+  "id": 4236980191,
+  "lat": 15.2736025,
+  "lon": 73.9629900,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Kamat Criticare & Research Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4236991092,
+  "lat": 15.2732410,
+  "lon": 73.9625850,
+  "tags": {
+    "amenity": "school",
+    "name": "Adarsh High School"
+  }
+},
+{
+  "type": "node",
+  "id": 4236996890,
+  "lat": 15.2815950,
+  "lon": 73.9641100,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Near St. Joaquim Chappel, Barda",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "hospital",
+    "name": "Mother Care Hospital, South Goa",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 4237006991,
+  "lat": 15.3123292,
+  "lon": 73.9836813,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Cure it!"
+  }
+},
+{
+  "type": "node",
+  "id": 4246752834,
+  "lat": 15.2901665,
+  "lon": 73.9649288,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Sharda Classic"
+  }
+},
+{
+  "type": "node",
+  "id": 4246892295,
+  "lat": 15.2752280,
+  "lon": 73.9558500,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Royal Treat"
+  }
+},
+{
+  "type": "node",
+  "id": 4246912496,
+  "lat": 15.2738750,
+  "lon": 73.9551200,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Raissa's Sheesh Mahal Lounge"
+  }
+},
+{
+  "type": "node",
+  "id": 4246918493,
+  "lat": 15.2733360,
+  "lon": 73.9557300,
+  "tags": {
+    "amenity": "bank",
+    "name": "Saraswat Bank"
+  }
+},
+{
+  "type": "node",
+  "id": 4246918494,
+  "lat": 15.2728920,
+  "lon": 73.9560158,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Anugraha Udupi Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 4247760994,
+  "lat": 15.2765910,
+  "lon": 73.9553900,
+  "tags": {
+    "amenity": "school",
+    "name": "Mahila Nutan English High School"
+  }
+},
+{
+  "type": "node",
+  "id": 4247761092,
+  "lat": 15.2743863,
+  "lon": 73.9558684,
+  "tags": {
+    "amenity": "school",
+    "name": "Popular High School"
+  }
+},
+{
+  "type": "node",
+  "id": 4247761193,
+  "lat": 15.2765980,
+  "lon": 73.9542540,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 4247810590,
+  "lat": 15.2708250,
+  "lon": 73.9589000,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-10-14",
+    "name": "Bharat"
+  }
+},
+{
+  "type": "node",
+  "id": 4247812090,
+  "lat": 15.2707950,
+  "lon": 73.9590900,
+  "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-10-14",
+    "name": "Hindu Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 4247812092,
+  "lat": 15.2704060,
+  "lon": 73.9607540,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Hotel Shagun"
+  }
+},
+{
+  "type": "node",
+  "id": 4247872700,
+  "lat": 15.2718140,
+  "lon": 73.9600400,
+  "tags": {
+    "amenity": "bar",
+    "name": "Lawrie's Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4247890800,
+  "lat": 15.2724990,
+  "lon": 73.9712200,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Shiv Sai Ice Cream & Fast Food Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4247900194,
+  "lat": 15.2720300,
+  "lon": 73.9713750,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Padma Medical Stores"
+  }
+},
+{
+  "type": "node",
+  "id": 4247911592,
+  "lat": 15.2720487,
+  "lon": 73.9709629,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Balu"
+  }
+},
+{
+  "type": "node",
+  "id": 4247919589,
+  "lat": 15.2713720,
+  "lon": 73.9681550,
+  "tags": {
+    "amenity": "cinema",
+    "name": "Vishant"
+  }
+},
+{
+  "type": "node",
+  "id": 4247919889,
+  "lat": 15.2717730,
+  "lon": 73.9692700,
+  "tags": {
+    "amenity": "post_office",
+    "name": "Aquem Post Office"
+  }
+},
+{
+  "type": "node",
+  "id": 4247936989,
+  "lat": 15.2739370,
+  "lon": 73.9731200,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Kerker Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4248832494,
+  "lat": 15.2564610,
+  "lon": 73.9656500,
+  "tags": {
+    "amenity": "school",
+    "name": "Rosary High School"
+  }
+},
+{
+  "type": "node",
+  "id": 4248891104,
+  "lat": 15.2583983,
+  "lon": 73.9654705,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Apollo Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 4248891919,
+  "lat": 15.2689880,
+  "lon": 73.9585300,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Furtados Restaurant and Bar",
+    "name:en": "Tandoor"
+  }
+},
+{
+  "type": "node",
+  "id": 4252571991,
+  "lat": 15.2517840,
+  "lon": 73.9344000,
+  "tags": {
+    "amenity": "bank",
+    "name": "Madgaum Urban Bank"
+  }
+},
+{
+  "type": "node",
+  "id": 4252571993,
+  "lat": 15.2842780,
+  "lon": 73.9582750,
+  "tags": {
+    "amenity": "fast_food",
+    "brand": "Domino's",
+    "brand:ks": "ڈومینوز",
+    "brand:pa": "ਡੋਮੀਨੋਜ਼",
+    "brand:ur": "ڈومینوز",
+    "brand:wikidata": "Q839466",
+    "brand:wikipedia": "en:Domino's Pizza",
+    "name": "Domino's",
+    "name:ks": "ڈومینوز",
+    "name:pa": "ਡੋਮੀਨੋਜ਼",
+    "name:ur": "ڈومینوز"
+  }
+},
+{
+  "type": "node",
+  "id": 4252575103,
+  "lat": 15.2904720,
+  "lon": 73.9811800,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "with love"
+  }
+},
+{
+  "type": "node",
+  "id": 4252575890,
+  "lat": 15.2392265,
+  "lon": 73.9421859,
+  "tags": {
+    "amenity": "car_wash",
+    "name": "Don Bosco Service Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4252575891,
+  "lat": 15.2391160,
+  "lon": 73.9418260,
+  "tags": {
+    "amenity": "bank",
+    "atm": "yes",
+    "brand": "State Bank of India",
+    "brand:wikidata": "Q1340361",
+    "brand:wikipedia": "en:State Bank of India",
+    "drive_through": "no",
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "short_name": "SBI",
+    "wikidata": "Q65979512"
+  }
+},
+{
+  "type": "node",
+  "id": 4252577291,
+  "lat": 15.2406196,
+  "lon": 73.9411367,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Our Lady of Piety",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 4252609725,
+  "lat": 15.2765220,
+  "lon": 73.9163000,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "wendys fire"
+  }
+},
+{
+  "type": "node",
+  "id": 4252609913,
+  "lat": 15.2766600,
+  "lon": 73.9201660,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "club margarita"
+  }
+},
+{
+  "type": "node",
+  "id": 4252610096,
+  "lat": 15.2863980,
+  "lon": 73.9783550,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Krishna Multi Cuisine Veg Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4252686493,
+  "lat": 15.2616130,
+  "lon": 73.9387050,
+  "tags": {
+    "amenity": "cafe",
+    "name": "SEAROM CYBER"
+  }
+},
+{
+  "type": "node",
+  "id": 4252687489,
+  "lat": 15.2845370,
+  "lon": 73.9755500,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Laxmi Veg Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4252709604,
+  "lat": 15.2615500,
+  "lon": 73.9302000,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Zoya"
+  }
+},
+{
+  "type": "node",
+  "id": 4252810789,
+  "lat": 15.2834635,
+  "lon": 73.9634100,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Girish Ranche Ghar"
+  }
+},
+{
+  "type": "node",
+  "id": 4253975389,
+  "lat": 15.2823320,
+  "lon": 73.9624560,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Cool n spice"
+  }
+},
+{
+  "type": "node",
+  "id": 4254120709,
+  "lat": 15.2703660,
+  "lon": 73.9622600,
+  "tags": {
+    "addr:postcode": "403601",
+    "addr:street": "near Hari Mandir, margao",
+    "amenity": "restaurant",
+    "name": "Spicy Family Restaurant",
+    "phone": "+91-9767898487"
+  }
+},
+{
+  "type": "node",
+  "id": 4258728396,
+  "lat": 15.2750998,
+  "lon": 73.9581745,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Martin's"
+  }
+},
+{
+  "type": "node",
+  "id": 4258761590,
+  "lat": 15.2746682,
+  "lon": 73.9550136,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Navadeep"
+  }
+},
+{
+  "type": "node",
+  "id": 4258761598,
+  "lat": 15.2628146,
+  "lon": 73.9624024,
+  "tags": {
+    "amenity": "restaurant",
+    "check_date": "2023-10-14",
+    "name": "Prerna"
+  }
+},
+{
+  "type": "node",
+  "id": 4258764789,
+  "lat": 15.2747198,
+  "lon": 73.9562837,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 4258768092,
+  "lat": 15.2560132,
+  "lon": 73.9667861,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Perseker cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 4258887590,
+  "lat": 15.2740083,
+  "lon": 73.9583411,
+  "tags": {
+    "amenity": "bank",
+    "name": "Karnataka bank"
+  }
+},
+{
+  "type": "node",
+  "id": 4258939789,
+  "lat": 15.2745741,
+  "lon": 73.9555222,
+  "tags": {
+    "alt_name": "RBL Bank Limited",
+    "amenity": "bank",
+    "brand:wikidata": "Q13120398",
+    "brand:wikipedia": "en:RBL Bank",
+    "name": "RBL Bank",
+    "name:en": "RBL Bank",
+    "old_name": "Ratnakar Bank Limited",
+    "short_name": "RBL",
+    "website": "https://www.rblbank.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4258939889,
+  "lat": 15.2744079,
+  "lon": 73.9555751,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Joeene Medicals"
+  }
+},
+{
+  "type": "node",
+  "id": 4260082892,
+  "lat": 15.2409211,
+  "lon": 73.9805579,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Martin’s Boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 4260442890,
+  "lat": 15.2710180,
+  "lon": 73.9720100,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Royal Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4260460290,
+  "lat": 15.2601000,
+  "lon": 73.9820000,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Prabhu Dessai Hospitals Private Limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4260543290,
+  "lat": 15.2773799,
+  "lon": 73.9595480,
+  "tags": {
+    "amenity": "school",
+    "name": "St Anthony High School"
+  }
+},
+{
+  "type": "node",
+  "id": 4260543291,
+  "lat": 15.2772266,
+  "lon": 73.9620685,
+  "tags": {
+    "amenity": "bank",
+    "brand": "State Bank of India",
+    "brand:wikidata": "Q1340361",
+    "brand:wikipedia": "en:State Bank of India",
+    "name": "State Bank of India",
+    "short_name": "SBI",
+    "website": "https://www.sbi.co.in"
+  }
+},
+{
+  "type": "node",
+  "id": 4260573290,
+  "lat": 15.2771898,
+  "lon": 73.9621125,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Cafe Ashirwad"
+  }
+},
+{
+  "type": "node",
+  "id": 4260579089,
+  "lat": 15.2772465,
+  "lon": 73.9619907,
+  "tags": {
+    "amenity": "bank",
+    "brand": "Axis Bank",
+    "brand:wikidata": "Q2003549",
+    "brand:wikipedia": "en:Axis Bank",
+    "name": "Axis Bank",
+    "name:en": "Axis Bank",
+    "website": "https://www.axisbank.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4260600189,
+  "lat": 15.2827520,
+  "lon": 73.9635240,
+  "tags": {
+    "amenity": "bar",
+    "name": "Rekha Bar & Fast Food"
+  }
+},
+{
+  "type": "node",
+  "id": 4262162734,
+  "lat": 15.2825462,
+  "lon": 73.9566969,
+  "tags": {
+    "amenity": "toilets",
+    "name": "Sulabh Toilet and Bath Complex"
+  }
+},
+{
+  "type": "node",
+  "id": 4262472090,
+  "lat": 15.2489480,
+  "lon": 73.9371950,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "shri damodar medical stores"
+  }
+},
+{
+  "type": "node",
+  "id": 4262472490,
+  "lat": 15.2584240,
+  "lon": 73.9280550,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Shelly's "
+  }
+},
+{
+  "type": "node",
+  "id": 4262475391,
+  "lat": 15.2521403,
+  "lon": 73.9348897,
+  "tags": {
+    "amenity": "bank",
+    "name": "vijaya bank"
+  }
+},
+{
+  "type": "node",
+  "id": 4269273394,
+  "lat": 15.2714124,
+  "lon": 73.9653174,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Sushant Vihar Hotel & Dairy"
+  }
+},
+{
+  "type": "node",
+  "id": 4269295989,
+  "lat": 15.2715310,
+  "lon": 73.9649350,
+  "tags": {
+    "amenity": "school",
+    "name": "New Era High School"
+  }
+},
+{
+  "type": "node",
+  "id": 4269313289,
+  "lat": 15.2717907,
+  "lon": 73.9696604,
+  "tags": {
+    "amenity": "bank",
+    "name": "ICICI Bank Aquem - Branch & ATM"
+  }
+},
+{
+  "type": "node",
+  "id": 4269710993,
+  "lat": 15.2693296,
+  "lon": 73.9703033,
+  "tags": {
+    "amenity": "fire_station",
+    "name": "Margao Fire Station"
+  }
+},
+{
+  "type": "node",
+  "id": 4269939116,
+  "lat": 15.2613220,
+  "lon": 73.9810890,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Vaidya Medical Store"
+  }
+},
+{
+  "type": "node",
+  "id": 4269939117,
+  "lat": 15.2616330,
+  "lon": 73.9807210,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Anil Medical Stores"
+  }
+},
+{
+  "type": "node",
+  "id": 4269953091,
+  "lat": 15.2772480,
+  "lon": 73.9758200,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "SatyaVinayak Bar & Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4269962905,
+  "lat": 15.2761736,
+  "lon": 73.9740205,
+  "tags": {
+    "amenity": "bank",
+    "brand": "HDFC",
+    "brand:wikidata": "Q631047",
+    "brand:wikipedia": "en:HDFC Bank",
+    "name": "HDFC Bank",
+    "short_name": "HDFC",
+    "website": "https://www.hdfcbank.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4269963914,
+  "lat": 15.2764480,
+  "lon": 73.9742600,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Hayatt"
+  }
+},
+{
+  "type": "node",
+  "id": 4271855190,
+  "lat": 15.2557870,
+  "lon": 73.9654900,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q2003387",
+    "brand:wikipedia": "en:Corporation Bank",
+    "name": "Corporation Bank",
+    "name:en": "Corporation Bank",
+    "website": "https://corpbank.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4271855394,
+  "lat": 15.2545640,
+  "lon": 73.9614940,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Capricorn Bar & Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4271855397,
+  "lat": 15.2621310,
+  "lon": 73.9389200,
+  "tags": {
+    "amenity": "bar",
+    "name": "sunny bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4271855595,
+  "lat": 15.2618938,
+  "lon": 73.9443201,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Pepper & spice"
+  }
+},
+{
+  "type": "node",
+  "id": 4271855596,
+  "lat": 15.2620316,
+  "lon": 73.9439615,
+  "tags": {
+    "amenity": "atm",
+    "operator": "Bank of India"
+  }
+},
+{
+  "type": "node",
+  "id": 4271871199,
+  "lat": 15.2607765,
+  "lon": 73.9297560,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Seshaa's"
+  }
+},
+{
+  "type": "node",
+  "id": 4271901991,
+  "lat": 15.2607390,
+  "lon": 73.9457900,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Popeye's corner"
+  }
+},
+{
+  "type": "node",
+  "id": 4271941889,
+  "lat": 15.2554010,
+  "lon": 73.9642900,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "The Medical Trust chemist & druggist"
+  }
+},
+{
+  "type": "node",
+  "id": 4271951191,
+  "lat": 15.2584691,
+  "lon": 73.9313972,
+  "tags": {
+    "amenity": "bar",
+    "cuisine": "breakfast;italian;coffee_shop;burger",
+    "internet_access": "wlan",
+    "name": "Aroma cafe & bar",
+    "name:en": "Aroma cafe",
+    "opening_hours": "Mo-Su 08:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4271951192,
+  "lat": 15.2791160,
+  "lon": 73.9352300,
+  "tags": {
+    "amenity": "childcare",
+    "name": "Whiz Kids Pre-School (Playgroup,Nursery,KG) & Learning Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4271955292,
+  "lat": 15.2967240,
+  "lon": 73.9235840,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Kingsley Restaurant and Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4271964589,
+  "lat": 15.2793410,
+  "lon": 73.9344250,
+  "tags": {
+    "amenity": "kindergarten",
+    "name": "First Steps Primary School"
+  }
+},
+{
+  "type": "node",
+  "id": 4271981389,
+  "lat": 15.2798380,
+  "lon": 73.9388660,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Brews N' Barbeques"
+  }
+},
+{
+  "type": "node",
+  "id": 4271981789,
+  "lat": 15.2799835,
+  "lon": 73.9404200,
+  "tags": {
+    "amenity": "bank",
+    "name": "HERITAGE, GRND FLR, SWANTANTRA PATHOPP.SAPNA TERRACES VASCO-"
+  }
+},
+{
+  "type": "node",
+  "id": 4271989689,
+  "lat": 15.2856070,
+  "lon": 73.9424300,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "fish on fire"
+  }
+},
+{
+  "type": "node",
+  "id": 4271991890,
+  "lat": 15.3008056,
+  "lon": 73.9210837,
+  "tags": {
+    "amenity": "car_rental",
+    "name": "bike hire"
+  }
+},
+{
+  "type": "node",
+  "id": 4272828292,
+  "lat": 15.2813690,
+  "lon": 73.9562700,
+  "tags": {
+    "amenity": "police",
+    "name": "Judicial Lock-up"
+  }
+},
+{
+  "type": "node",
+  "id": 4273701090,
+  "lat": 15.2734380,
+  "lon": 73.9556000,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Ideal fastfood"
+  }
+},
+{
+  "type": "node",
+  "id": 4274838894,
+  "lat": 15.2721950,
+  "lon": 73.9572200,
+  "tags": {
+    "amenity": "bank",
+    "name": "Vijaya bank"
+  }
+},
+{
+  "type": "node",
+  "id": 4274842490,
+  "lat": 15.2810830,
+  "lon": 73.9859707,
+  "tags": {
+    "amenity": "bank",
+    "name": "Madgaum Urban Co Operative Bank (Chairman)"
+  }
+},
+{
+  "type": "node",
+  "id": 4274856292,
+  "lat": 15.2697910,
+  "lon": 73.9890900,
+  "tags": {
+    "amenity": "bank",
+    "brand": "Indian Overseas Bank",
+    "brand:wikidata": "Q2003611",
+    "brand:wikipedia": "en:Indian Overseas Bank",
+    "name": "Indian Overseas Bank",
+    "name:en": "Indian Overseas Bank",
+    "short_name": "IOB",
+    "website": "https://www.iob.in"
+  }
+},
+{
+  "type": "node",
+  "id": 4274862489,
+  "lat": 15.2796841,
+  "lon": 73.9205274,
+  "tags": {
+    "amenity": "bank",
+    "name": "Union bank"
+  }
+},
+{
+  "type": "node",
+  "id": 4275219521,
+  "lat": 15.2388900,
+  "lon": 73.9561800,
+  "tags": {
+    "amenity": "car_wash",
+    "name": "Goes Auto Spa"
+  }
+},
+{
+  "type": "node",
+  "id": 4275220896,
+  "lat": 15.2766420,
+  "lon": 73.9167000,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Sagar kinara"
+  }
+},
+{
+  "type": "node",
+  "id": 4277794894,
+  "lat": 15.2610350,
+  "lon": 73.9298800,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "St. Antonio Cafe (Bab's Bakery)"
+  }
+},
+{
+  "type": "node",
+  "id": 4277807491,
+  "lat": 15.2607150,
+  "lon": 73.9283750,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Crush cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 4277815791,
+  "lat": 15.2573008,
+  "lon": 73.9204257,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Firefly Goan Bistro Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4277828890,
+  "lat": 15.2608520,
+  "lon": 73.9289500,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Cajie"
+  }
+},
+{
+  "type": "node",
+  "id": 4279652289,
+  "lat": 15.2676740,
+  "lon": 73.9655700,
+  "tags": {
+    "amenity": "car_rental",
+    "name": "Fatima car rentals"
+  }
+},
+{
+  "type": "node",
+  "id": 4280408494,
+  "lat": 15.2588020,
+  "lon": 73.9310980,
+  "tags": {
+    "amenity": "post_office",
+    "name": "Post office Benaulim"
+  }
+},
+{
+  "type": "node",
+  "id": 4280455891,
+  "lat": 15.2786430,
+  "lon": 73.9232910,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Blooming flower"
+  }
+},
+{
+  "type": "node",
+  "id": 4280504995,
+  "lat": 15.2786920,
+  "lon": 73.9244760,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Arabian courtyard"
+  }
+},
+{
+  "type": "node",
+  "id": 4280560891,
+  "lat": 15.2743254,
+  "lon": 73.9590180,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Cafe Tato"
+  }
+},
+{
+  "type": "node",
+  "id": 4281431725,
+  "lat": 15.2438402,
+  "lon": 73.9447189,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Farmhouse",
+    "name:en": "The Farmhouse"
+  }
+},
+{
+  "type": "node",
+  "id": 4281556489,
+  "lat": 15.2918390,
+  "lon": 73.9761000,
+  "tags": {
+    "amenity": "fuel",
+    "name": "HP PETROL PUMP - ASHOKA PETROLEUM"
+  }
+},
+{
+  "type": "node",
+  "id": 4281813394,
+  "lat": 15.2928280,
+  "lon": 73.9556211,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Swagat Authentic & Pure Veg Food"
+  }
+},
+{
+  "type": "node",
+  "id": 4281838002,
+  "lat": 15.2785640,
+  "lon": 73.9311450,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Cherry Tomato"
+  }
+},
+{
+  "type": "node",
+  "id": 4281868889,
+  "lat": 15.2870892,
+  "lon": 73.9541083,
+  "tags": {
+    "amenity": "doctors",
+    "name": "Dr. Egipsy - Eye, Ear & Nose Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4283671694,
+  "lat": 15.2771495,
+  "lon": 73.9605105,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Opp b p s club, behind astro housing society, pagifond, margoa",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "hospital",
+    "email": "info@gracecardiachospital.com",
+    "name": "Grace Intensive Cardiac Care Center",
+    "source": "OpenGovernmentData",
+    "website": "https://gracecardiachospital.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4283721891,
+  "lat": 15.2727210,
+  "lon": 73.9626327,
+  "tags": {
+    "amenity": "doctors",
+    "name": "Dr. Batra's"
+  }
+},
+{
+  "type": "node",
+  "id": 4283722191,
+  "lat": 15.2764351,
+  "lon": 73.9544092,
+  "tags": {
+    "amenity": "doctors",
+    "name": "Dr Satendra R Desai"
+  }
+},
+{
+  "type": "node",
+  "id": 4283815991,
+  "lat": 15.2624850,
+  "lon": 73.9441150,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Anand's  Hotel Nest"
+  }
+},
+{
+  "type": "node",
+  "id": 4283883090,
+  "lat": 15.2623927,
+  "lon": 73.9375514,
+  "tags": {
+    "amenity": "veterinary",
+    "name": "Dr. Carol Misquitas Veterinary Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4283932289,
+  "lat": 15.2838197,
+  "lon": 73.9668362,
+  "tags": {
+    "amenity": "veterinary",
+    "name": "Vets For Pets"
+  }
+},
+{
+  "type": "node",
+  "id": 4284115691,
+  "lat": 15.2690330,
+  "lon": 73.9707900,
+  "tags": {
+    "amenity": "toilets"
+  }
+},
+{
+  "type": "node",
+  "id": 4284116893,
+  "lat": 15.2738900,
+  "lon": 73.9570100,
+  "tags": {
+    "amenity": "toilets"
+  }
+},
+{
+  "type": "node",
+  "id": 4284179291,
+  "lat": 15.2883500,
+  "lon": 73.9825500,
+  "tags": {
+    "amenity": "doctors",
+    "name": "Dr.Dipak Kamat"
+  }
+},
+{
+  "type": "node",
+  "id": 4284189089,
+  "lat": 15.2919380,
+  "lon": 73.9639050,
+  "tags": {
+    "amenity": "doctors",
+    "name": "Dr V N Kharangate"
+  }
+},
+{
+  "type": "node",
+  "id": 4285628228,
+  "lat": 15.2329257,
+  "lon": 73.9432321,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 4292191933,
+  "lat": 15.2737380,
+  "lon": 73.9573485,
+  "tags": {
+    "amenity": "fuel",
+    "compressed_air": "yes",
+    "name": "Petrol  for 2 Wheelers"
+  }
+},
+{
+  "type": "node",
+  "id": 4293162590,
+  "lat": 15.2613950,
+  "lon": 73.9566440,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Baskin Robbins"
+  }
+},
+{
+  "type": "node",
+  "id": 4293164289,
+  "lat": 15.2790350,
+  "lon": 73.9264810,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Baskin Robbins"
+  }
+},
+{
+  "type": "node",
+  "id": 4295560298,
+  "lat": 15.2909980,
+  "lon": 73.9637950,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Bhingi's Food Take Away"
+  }
+},
+{
+  "type": "node",
+  "id": 4295564597,
+  "lat": 15.2770080,
+  "lon": 74.0018180,
+  "tags": {
+    "amenity": "bar",
+    "name": "Tony bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4295568489,
+  "lat": 15.2724660,
+  "lon": 73.9591680,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Venice Bar & Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4295600692,
+  "lat": 15.2910570,
+  "lon": 73.9616390,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Our Lady of Rosary Chapel",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 4295605292,
+  "lat": 15.2905280,
+  "lon": 73.9609900,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Near Nehru Stadium",
+    "addr:postcode": "403602",
+    "addr:state": "Goa",
+    "amenity": "hospital",
+    "name": "Antonio Vicante Da Costa Memorial Clinic / A V Da Costa Hospital",
+    "name:en": "AV Da Costa Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 4295640589,
+  "lat": 15.2909800,
+  "lon": 73.9619200,
+  "tags": {
+    "amenity": "post_office",
+    "name": "Fatorda Sub Post Office"
+  }
+},
+{
+  "type": "node",
+  "id": 4296701294,
+  "lat": 15.2733820,
+  "lon": 73.9274440,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Souza Coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 4296749691,
+  "lat": 15.2762680,
+  "lon": 73.9152820,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "49ers Restaurant & Pub"
+  }
+},
+{
+  "type": "node",
+  "id": 4296749693,
+  "lat": 15.2764040,
+  "lon": 73.9159070,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Cafe Coffee Day - Colva Beach Road"
+  }
+},
+{
+  "type": "node",
+  "id": 4296749694,
+  "lat": 15.2839470,
+  "lon": 73.9136100,
+  "tags": {
+    "amenity": "pub",
+    "name": "Sams Cottages and Resto Pub"
+  }
+},
+{
+  "type": "node",
+  "id": 4296784490,
+  "lat": 15.2762254,
+  "lon": 73.9156200,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Rafael's"
+  }
+},
+{
+  "type": "node",
+  "id": 4296784491,
+  "lat": 15.2846000,
+  "lon": 73.9126400,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Seashell Family Restaurant & Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4298328692,
+  "lat": 15.2630540,
+  "lon": 73.9490800,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Dr. Correia Afonso Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4298509389,
+  "lat": 15.2737560,
+  "lon": 73.9563940,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Gracias Maternity Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4298533690,
+  "lat": 15.2754899,
+  "lon": 73.9795950,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Aquem",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Yashodhan Hospital, South Goa",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 4298533691,
+  "lat": 15.2904265,
+  "lon": 73.9772615,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Infant Jesus Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4298743994,
+  "lat": 15.2762960,
+  "lon": 73.9643500,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Tamil Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 4298747701,
+  "lat": 15.2733180,
+  "lon": 73.9637500,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Derasar"
+  }
+},
+{
+  "type": "node",
+  "id": 4298772289,
+  "lat": 15.3083680,
+  "lon": 73.9667000,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Our Lady of Monsaratte Chapel",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 4299624811,
+  "lat": 15.2599260,
+  "lon": 73.9266800,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Dinha's Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4303624693,
+  "lat": 15.2818850,
+  "lon": 73.9483000,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Our Lady of Mount Carmel Chapel, Mungul",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 4303672689,
+  "lat": 15.2818060,
+  "lon": 73.9503300,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Boa Viagem Chapel, Mungul",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 4306921089,
+  "lat": 15.2702200,
+  "lon": 73.9933410,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Mitasha's Hospitality"
+  }
+},
+{
+  "type": "node",
+  "id": 4307352692,
+  "lat": 15.3078970,
+  "lon": 73.9755380,
+  "tags": {
+    "amenity": "bar",
+    "name": "Carlota Family Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4307382490,
+  "lat": 15.3025480,
+  "lon": 73.9751460,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Arlem Chapel",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 4307387589,
+  "lat": 15.3073940,
+  "lon": 73.9744800,
+  "tags": {
+    "amenity": "school",
+    "name": "Government Primary School"
+  }
+},
+{
+  "type": "node",
+  "id": 4308351090,
+  "lat": 15.2432900,
+  "lon": 73.9566040,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Telaulim Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 4308356589,
+  "lat": 15.2526380,
+  "lon": 73.9504600,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Our Lady of Enfermous Chapel",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 4311373492,
+  "lat": 15.2551400,
+  "lon": 73.9642400,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Dr.Hegde Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4311373493,
+  "lat": 15.2616590,
+  "lon": 73.9549000,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Family Care Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4311476590,
+  "lat": 15.2800800,
+  "lon": 73.9772030,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Nagarjuna Ayurvedic Clinic & Panchakarma Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4311482291,
+  "lat": 15.2786880,
+  "lon": 73.9230240,
+  "tags": {
+    "amenity": "dentist",
+    "name": "Dental Solutions"
+  }
+},
+{
+  "type": "node",
+  "id": 4311488289,
+  "lat": 15.2780716,
+  "lon": 73.9281242,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Diet Dr Clinic Powered by Harpreet Pasricha "
+  }
+},
+{
+  "type": "node",
+  "id": 4313793502,
+  "lat": 15.2839620,
+  "lon": 73.9721400,
+  "tags": {
+    "amenity": "bank",
+    "name": "The Goa State Urban Coop Bank"
+  }
+},
+{
+  "type": "node",
+  "id": 4313801989,
+  "lat": 15.2842970,
+  "lon": 73.9750760,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Damodar"
+  }
+},
+{
+  "type": "node",
+  "id": 4313802289,
+  "lat": 15.2452270,
+  "lon": 73.9282150,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "GiGi Park"
+  }
+},
+{
+  "type": "node",
+  "id": 4314742110,
+  "lat": 15.2777456,
+  "lon": 73.9139004,
+  "tags": {
+    "addr:housenumber": "No. 28",
+    "addr:street": "Fatona, Colva, Goa 403708",
+    "amenity": "restaurant",
+    "description": "Open-fronted beachfront restaurant serving Goan seafood, Indian and Continental cuisines.",
+    "name": "Kentuckee Seafood Restaurant",
+    "phone": "+91-832 278 8107",
+    "website": "http://kentuckeeseafood.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4317062367,
+  "lat": 15.2780565,
+  "lon": 73.9154676,
+  "tags": {
+    "amenity": "shelter"
+  }
+},
+{
+  "type": "node",
+  "id": 4318197805,
+  "lat": 15.2818217,
+  "lon": 73.9154996,
+  "tags": {
+    "amenity": "bar",
+    "name": "Copper Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4318458993,
+  "lat": 15.2818580,
+  "lon": 73.9777070,
+  "tags": {
+    "amenity": "car_rental",
+    "name": "Bike & Car Transportation Goa"
+  }
+},
+{
+  "type": "node",
+  "id": 4318459792,
+  "lat": 15.2828860,
+  "lon": 73.9690860,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Jacksons Restaurant & Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4318478191,
+  "lat": 15.2845780,
+  "lon": 73.9734950,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q2004078",
+    "brand:wikipedia": "en:Union Bank of India",
+    "name": "Union Bank of India",
+    "name:en": "Union Bank of India",
+    "short_name": "UBI",
+    "website": "https://www.unionbankofindia.co.in/"
+  }
+},
+{
+  "type": "node",
+  "id": 4320997692,
+  "lat": 15.2593180,
+  "lon": 73.9648800,
+  "tags": {
+    "amenity": "atm",
+    "operator": "Corporation Bank"
+  }
+},
+{
+  "type": "node",
+  "id": 4321016792,
+  "lat": 15.2520060,
+  "lon": 73.9806300,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "St. Francis Xavier Cross (Mandopa)",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 4321021491,
+  "lat": 15.3170600,
+  "lon": 73.9422060,
+  "tags": {
+    "amenity": "atm",
+    "operator": "HDFC"
+  }
+},
+{
+  "type": "node",
+  "id": 4321025191,
+  "lat": 15.2594385,
+  "lon": 73.9936700,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Our Lady of Fatima Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 4321025192,
+  "lat": 15.2627330,
+  "lon": 73.9796780,
+  "tags": {
+    "amenity": "atm",
+    "operator": "Ratnakar Bank"
+  }
+},
+{
+  "type": "node",
+  "id": 4321025193,
+  "lat": 15.2707330,
+  "lon": 73.9827650,
+  "tags": {
+    "amenity": "atm",
+    "operator": "HDFC"
+  }
+},
+{
+  "type": "node",
+  "id": 4329327793,
+  "lat": 15.2762607,
+  "lon": 73.9153664,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Rosena Cafeteria"
+  }
+},
+{
+  "type": "node",
+  "id": 4329348893,
+  "lat": 15.2768644,
+  "lon": 73.9153714,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Alexander Radhe Krishna Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4329356792,
+  "lat": 15.2765523,
+  "lon": 73.9144273,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Chicking"
+  }
+},
+{
+  "type": "node",
+  "id": 4329356796,
+  "lat": 15.2330522,
+  "lon": 73.9434750,
+  "tags": {
+    "amenity": "bank",
+    "brand": "ICICI Bank",
+    "brand:wikidata": "Q1653258",
+    "brand:wikipedia": "en:ICICI Bank",
+    "name": "ICICI Bank",
+    "name:en": "ICICI Bank",
+    "short_name": "ICICI",
+    "website": "https://www.icicibank.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4329361092,
+  "lat": 15.2765100,
+  "lon": 73.9144140,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Pinto"
+  }
+},
+{
+  "type": "node",
+  "id": 4329361094,
+  "lat": 15.2331035,
+  "lon": 73.9432372,
+  "tags": {
+    "amenity": "atm",
+    "currency:INR": "yes",
+    "drive_through": "no",
+    "name": "HDFC Bank",
+    "operator": "HDFC"
+  }
+},
+{
+  "type": "node",
+  "id": 4329367191,
+  "lat": 15.2328447,
+  "lon": 73.9432461,
+  "tags": {
+    "amenity": "doctors",
+    "healthcare": "doctor",
+    "name": "Dr. Hubert Viegas"
+  }
+},
+{
+  "type": "node",
+  "id": 4329375891,
+  "lat": 15.2764955,
+  "lon": 73.9184045,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Mehek"
+  }
+},
+{
+  "type": "node",
+  "id": 4329377789,
+  "lat": 15.2767696,
+  "lon": 73.9145540,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Nescafe- The Coffee Shop"
+  }
+},
+{
+  "type": "node",
+  "id": 4329377790,
+  "lat": 15.2768206,
+  "lon": 73.9201980,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Shalom's"
+  }
+},
+{
+  "type": "node",
+  "id": 4329377889,
+  "lat": 15.2768621,
+  "lon": 73.9152796,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Hot Spice Kitchen Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4329377890,
+  "lat": 15.2766458,
+  "lon": 73.9194376,
+  "tags": {
+    "amenity": "dentist",
+    "name": "Dental Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4329378089,
+  "lat": 15.2765313,
+  "lon": 73.9165268,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Goodman"
+  }
+},
+{
+  "type": "node",
+  "id": 4329378090,
+  "lat": 15.2787090,
+  "lon": 73.9232660,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Sunshine Medical Store"
+  }
+},
+{
+  "type": "node",
+  "id": 4336604590,
+  "lat": 15.2689900,
+  "lon": 73.9634700,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Santa Cruz Chapel Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 4336628989,
+  "lat": 15.2330482,
+  "lon": 73.9435603,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Ashoka Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 4336825701,
+  "lat": 15.2398629,
+  "lon": 73.9417035,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Baretto Bar and Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4336853992,
+  "lat": 15.2448810,
+  "lon": 73.9389012,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Annapoorna"
+  }
+},
+{
+  "type": "node",
+  "id": 4336853995,
+  "lat": 15.2392415,
+  "lon": 73.9418790,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Cowboy's"
+  }
+},
+{
+  "type": "node",
+  "id": 4336858993,
+  "lat": 15.2445456,
+  "lon": 73.9388390,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Vincent Restaurant and Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4336866790,
+  "lat": 15.2398106,
+  "lon": 73.9415333,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Arturo's"
+  }
+},
+{
+  "type": "node",
+  "id": 4336867490,
+  "lat": 15.2446232,
+  "lon": 73.9391790,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Valerio's Chicken/Meat Shawarma"
+  }
+},
+{
+  "type": "node",
+  "id": 4336883291,
+  "lat": 15.2447267,
+  "lon": 73.9387422,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 4336891990,
+  "lat": 15.2442160,
+  "lon": 73.9390377,
+  "tags": {
+    "amenity": "school",
+    "name": "LV Educational Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4340617190,
+  "lat": 15.2586737,
+  "lon": 73.9652191,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q2003387",
+    "brand:wikipedia": "en:Corporation Bank",
+    "name": "Corporation Bank",
+    "name:en": "Corporation Bank",
+    "website": "https://corpbank.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4344232897,
+  "lat": 15.2576169,
+  "lon": 73.9659506,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Jai Jinendra Medical Stores"
+  }
+},
+{
+  "type": "node",
+  "id": 4344334892,
+  "lat": 15.2759913,
+  "lon": 73.9571742,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q2040323",
+    "brand:wikipedia": "en:IndusInd Bank",
+    "name": "IndusInd Bank",
+    "name:en": "IndusInd Bank",
+    "website": "https://www.indusind.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4344398490,
+  "lat": 15.2792930,
+  "lon": 73.9577210,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Abade Faria Road",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "clinic",
+    "name": "Borkar Nursing Home",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 4344398592,
+  "lat": 15.2798750,
+  "lon": 73.9592240,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Margao Medical Stores"
+  }
+},
+{
+  "type": "node",
+  "id": 4344398693,
+  "lat": 15.2803750,
+  "lon": 73.9570850,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Damodar Temple"
+  }
+},
+{
+  "type": "node",
+  "id": 4344398695,
+  "lat": 15.2807670,
+  "lon": 73.9584370,
+  "tags": {
+    "amenity": "school",
+    "name": "Old Presentation Convent High School"
+  }
+},
+{
+  "type": "node",
+  "id": 4344399091,
+  "lat": 15.2787874,
+  "lon": 73.9579030,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Chinese Nest"
+  }
+},
+{
+  "type": "node",
+  "id": 4348299600,
+  "lat": 15.2643500,
+  "lon": 73.9784400,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Aruna Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4348299602,
+  "lat": 15.2696800,
+  "lon": 73.9505500,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Saffron Lawns Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4359952115,
+  "lat": 15.2733173,
+  "lon": 73.9553411,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Rajiv",
+    "name:en": "Rajiv Medical Store"
+  }
+},
+{
+  "type": "node",
+  "id": 4359952116,
+  "lat": 15.2751645,
+  "lon": 73.9558557,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Jaggi's",
+    "name:en": "Jaggi's"
+  }
+},
+{
+  "type": "node",
+  "id": 4359972602,
+  "lat": 15.2882258,
+  "lon": 73.9544086,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Opp Ktc Bus Stand, Madel",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "hospital",
+    "name": "Dr.Rebellos Clinic And Hospital",
+    "name:en": "Rebello Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 4359972804,
+  "lat": 15.2846611,
+  "lon": 73.9641687,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Madera",
+    "name:en": "Madera"
+  }
+},
+{
+  "type": "node",
+  "id": 4361119993,
+  "lat": 15.2623668,
+  "lon": 73.9440999,
+  "tags": {
+    "amenity": "bar",
+    "name": "Glosant",
+    "name:en": "Glosant"
+  }
+},
+{
+  "type": "node",
+  "id": 4361135690,
+  "lat": 15.2453060,
+  "lon": 73.9251710,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "3 Kisses Restaurant and Feni Bar",
+    "name:en": "3 Kisses Restaurant and Feni Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4361149889,
+  "lat": 15.2703682,
+  "lon": 73.9703888,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Alcoves Restaurant and Bar",
+    "name:en": "Alcoves Restaurant and Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4361149896,
+  "lat": 15.2559130,
+  "lon": 73.9443110,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Cheezee Munchy's",
+    "name:en": "Cheezee Munchy's"
+  }
+},
+{
+  "type": "node",
+  "id": 4364158297,
+  "lat": 15.2683563,
+  "lon": 73.9595490,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Raviraj"
+  }
+},
+{
+  "type": "node",
+  "id": 4364310998,
+  "lat": 15.2853300,
+  "lon": 73.9550590,
+  "tags": {
+    "amenity": "doctors",
+    "name": "Dr. Ryan Alberto",
+    "name:en": "Dr. Ryan Alberto"
+  }
+},
+{
+  "type": "node",
+  "id": 4368909709,
+  "lat": 15.2737576,
+  "lon": 73.9571887,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4375325466,
+  "lat": 15.2767966,
+  "lon": 73.9158628,
+  "tags": {
+    "amenity": "car_rental"
+  }
+},
+{
+  "type": "node",
+  "id": 4375325469,
+  "lat": 15.2768845,
+  "lon": 73.9160324,
+  "tags": {
+    "amenity": "toilets"
+  }
+},
+{
+  "type": "node",
+  "id": 4375325470,
+  "lat": 15.2770838,
+  "lon": 73.9154216,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4379978594,
+  "lat": 15.2525900,
+  "lon": 73.9797300,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Amasan Bar & Restaurant",
+    "name:en": "Amasan Bar & Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4379978793,
+  "lat": 15.2595100,
+  "lon": 73.9798100,
+  "tags": {
+    "amenity": "bar",
+    "name": "Vicente Bar Imperial Blue",
+    "name:hi": "Vicente Bar Imperial Blue"
+  }
+},
+{
+  "type": "node",
+  "id": 4386841300,
+  "lat": 15.2909366,
+  "lon": 73.9639905,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "citi cafe",
+    "name:en": "citi cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 4386841301,
+  "lat": 15.2912517,
+  "lon": 73.9643349,
+  "tags": {
+    "amenity": "clinic",
+    "name": "dr. bhushan lotlikar Dental clinic",
+    "name:en": "dr. bhushan lotlikar Dental clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4386841597,
+  "lat": 15.2552434,
+  "lon": 73.9795163,
+  "tags": {
+    "amenity": "bank",
+    "brand": "Canara Bank",
+    "brand:pa": "ਕੇਨਰਾ ਬੈਂਕ",
+    "brand:ur": "کینرا بینک",
+    "brand:wikidata": "Q2003777",
+    "brand:wikipedia": "en:Canara Bank",
+    "brand:wikipedia:pa": "ਕੇਨਰਾ ਬੈਂਕ",
+    "name": "Canara Bank",
+    "name:pa": "ਕੇਨਰਾ ਬੈਂਕ",
+    "name:ur": "کینرا بینک",
+    "website": "https://www.canarabank.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4386841598,
+  "lat": 15.2908575,
+  "lon": 73.9638909,
+  "tags": {
+    "amenity": "clinic",
+    "healthcare": "physiotherapist",
+    "name": "Sims Physiotherapy clinic",
+    "name:en": "Sims Physiotherapy clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4386869499,
+  "lat": 15.2909091,
+  "lon": 73.9639637,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Apollo Pharmacy",
+    "name:en": "Apollo Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 4386869598,
+  "lat": 15.2910496,
+  "lon": 73.9638407,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Royal Chemist and Druggist",
+    "name:en": "Royal Chemist and Druggist"
+  }
+},
+{
+  "type": "node",
+  "id": 4386869897,
+  "lat": 15.2908793,
+  "lon": 73.9639303,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Sims delite",
+    "name:en": "Sims delite"
+  }
+},
+{
+  "type": "node",
+  "id": 4386921689,
+  "lat": 15.2592240,
+  "lon": 73.9798240,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "alcon highway",
+    "name:en": "alcon highway"
+  }
+},
+{
+  "type": "node",
+  "id": 4386923190,
+  "lat": 15.2503337,
+  "lon": 73.9793370,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "hotel alisha",
+    "name:en": "hotel alisha"
+  }
+},
+{
+  "type": "node",
+  "id": 4389086295,
+  "lat": 15.2738028,
+  "lon": 73.9564983,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Viegas Medical Stores",
+    "name:en": "Viegas Medical Stores"
+  }
+},
+{
+  "type": "node",
+  "id": 4389101290,
+  "lat": 15.2733319,
+  "lon": 73.9555562,
+  "tags": {
+    "amenity": "doctors",
+    "name": "Dr. Subhash Chandra",
+    "name:en": "Dr. Subhash Chandra"
+  }
+},
+{
+  "type": "node",
+  "id": 4389101391,
+  "lat": 15.2737814,
+  "lon": 73.9551522,
+  "tags": {
+    "amenity": "clinic",
+    "name": "DXN Health Point",
+    "name:en": "DXN Health Point"
+  }
+},
+{
+  "type": "node",
+  "id": 4389126689,
+  "lat": 15.2743200,
+  "lon": 73.9549400,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Oriental Pharmaceutical Distributors",
+    "name:en": "Oriental Pharmaceutical Distributors"
+  }
+},
+{
+  "type": "node",
+  "id": 4395615793,
+  "lat": 15.2762610,
+  "lon": 73.9570004,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Sri Damodar Temple",
+    "name:en": "Sri Damodar Temple",
+    "religion": "hindu"
+  }
+},
+{
+  "type": "node",
+  "id": 4402016489,
+  "lat": 15.2443000,
+  "lon": 73.9818300,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Chopstic Chinese Fast Food",
+    "name:en": "Chopstic Chinese Fast Food"
+  }
+},
+{
+  "type": "node",
+  "id": 4402047092,
+  "lat": 15.2604100,
+  "lon": 73.9739600,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Kubera",
+    "name:en": "Kubera"
+  }
+},
+{
+  "type": "node",
+  "id": 4405699194,
+  "lat": 15.2735376,
+  "lon": 73.9584494,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Marliz",
+    "name:en": "Marliz"
+  }
+},
+{
+  "type": "node",
+  "id": 4405706795,
+  "lat": 15.2404075,
+  "lon": 73.9759326,
+  "tags": {
+    "amenity": "toilets"
+  }
+},
+{
+  "type": "node",
+  "id": 4405707196,
+  "lat": 15.2731440,
+  "lon": 73.9544237,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Cafe 15",
+    "name:en": "Cafe 15"
+  }
+},
+{
+  "type": "node",
+  "id": 4421436690,
+  "lat": 15.2795932,
+  "lon": 73.9599671,
+  "tags": {
+    "amenity": "bureau_de_change",
+    "name": "Evolve Consultancy",
+    "name:en": "Evolve Consultancy"
+  }
+},
+{
+  "type": "node",
+  "id": 4436526490,
+  "lat": 15.2780263,
+  "lon": 73.9217418,
+  "tags": {
+    "amenity": "atm"
+  }
+},
+{
+  "type": "node",
+  "id": 4449251489,
+  "lat": 15.2644400,
+  "lon": 73.9697600,
+  "tags": {
+    "amenity": "community_centre",
+    "name": "Krcl Community Hall",
+    "name:en": "Krcl Community Hall"
+  }
+},
+{
+  "type": "node",
+  "id": 4451298998,
+  "lat": 15.2718724,
+  "lon": 73.9587885,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Farmacia Molio",
+    "name:en": "Farmacia Molio"
+  }
+},
+{
+  "type": "node",
+  "id": 4464455392,
+  "lat": 15.2715489,
+  "lon": 73.9651107,
+  "tags": {
+    "amenity": "atm",
+    "operator": "PMC bank"
+  }
+},
+{
+  "type": "node",
+  "id": 4466320108,
+  "lat": 15.2878462,
+  "lon": 73.9205904,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Valanka fast food",
+    "name:en": "Valanka fast food"
+  }
+},
+{
+  "type": "node",
+  "id": 4466320109,
+  "lat": 15.2739768,
+  "lon": 73.9271756,
+  "tags": {
+    "amenity": "bar",
+    "name": "Durigo",
+    "name:en": "Durigo"
+  }
+},
+{
+  "type": "node",
+  "id": 4466320310,
+  "lat": 15.2789639,
+  "lon": 73.9206135,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q2004439",
+    "brand:wikipedia": "en:Bank of India",
+    "name": "Bank of India",
+    "name:en": "Bank of India",
+    "short_name": "BoI",
+    "website": "http://www.bankofindia.co.in"
+  }
+},
+{
+  "type": "node",
+  "id": 4466320311,
+  "lat": 15.2590880,
+  "lon": 73.9311452,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Menino",
+    "name:en": "Menino"
+  }
+},
+{
+  "type": "node",
+  "id": 4466320595,
+  "lat": 15.2972251,
+  "lon": 73.9193311,
+  "tags": {
+    "amenity": "bar",
+    "name": "Alex bar",
+    "name:en": "Alex bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4466323200,
+  "lat": 15.2785430,
+  "lon": 73.9265540,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q2003549",
+    "brand:wikipedia": "en:Axis Bank",
+    "name": "Axis Bank",
+    "name:en": "Axis Bank",
+    "website": "https://www.axisbank.com",
+    "wikidata": "Q73762681"
+  }
+},
+{
+  "type": "node",
+  "id": 4466323995,
+  "lat": 15.2630811,
+  "lon": 73.9292544,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Dum biryani",
+    "name:en": "Dum biryani"
+  }
+},
+{
+  "type": "node",
+  "id": 4469615192,
+  "lat": 15.2831479,
+  "lon": 73.9682638,
+  "tags": {
+    "amenity": "bank",
+    "name": "Citizen credit cooperative bank ltd",
+    "name:en": "Citizen credit cooperative bank ltd"
+  }
+},
+{
+  "type": "node",
+  "id": 4469615194,
+  "lat": 15.2716050,
+  "lon": 73.9587621,
+  "tags": {
+    "amenity": "bureau_de_change",
+    "name": "Seven ocean forex",
+    "name:en": "Seven ocean forex"
+  }
+},
+{
+  "type": "node",
+  "id": 4469646791,
+  "lat": 15.2756594,
+  "lon": 73.9582519,
+  "tags": {
+    "amenity": "bank",
+    "name": "Syrian Catholic bank",
+    "name:en": "Syrian Catholic bank"
+  }
+},
+{
+  "type": "node",
+  "id": 4469652590,
+  "lat": 15.2819728,
+  "lon": 73.9612030,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Aloms",
+    "name:en": "Aloms"
+  }
+},
+{
+  "type": "node",
+  "id": 4469652689,
+  "lat": 15.2825901,
+  "lon": 73.9631819,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q2007090",
+    "brand:wikipedia": "en:Central Bank of India",
+    "name": "Central Bank of India",
+    "name:en": "Central Bank of India",
+    "website": "https://www.centralbankofindia.co.in"
+  }
+},
+{
+  "type": "node",
+  "id": 4476349389,
+  "lat": 15.2719854,
+  "lon": 73.9562136,
+  "tags": {
+    "amenity": "bank",
+    "brand": "ICICI Bank",
+    "brand:wikidata": "Q1653258",
+    "brand:wikipedia": "en:ICICI Bank",
+    "name": "ICICI Bank",
+    "name:en": "ICICI Bank",
+    "short_name": "ICICI",
+    "website": "https://www.icicibank.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4493841692,
+  "lat": 15.2787779,
+  "lon": 73.9580320,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Salam Fastfood",
+    "name:en": "Salam Fastfood"
+  }
+},
+{
+  "type": "node",
+  "id": 4506229691,
+  "lat": 15.2571734,
+  "lon": 73.9199672,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Ayur Mantra",
+    "name:en": "Ayur Mantra"
+  }
+},
+{
+  "type": "node",
+  "id": 4506287090,
+  "lat": 15.2510672,
+  "lon": 73.9210287,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Ocean Heaven",
+    "name:en": "Ocean Heaven"
+  }
+},
+{
+  "type": "node",
+  "id": 4524140892,
+  "lat": 15.2702346,
+  "lon": 73.9591746,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Madgaum Cafe",
+    "name:en": "Madgaum Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 4527484590,
+  "lat": 15.2830844,
+  "lon": 73.9685920,
+  "tags": {
+    "amenity": "bank",
+    "name": "Lokmanya Multipurpose CoOp Society",
+    "name:en": "Lokmanya Multipurpose CoOp Society"
+  }
+},
+{
+  "type": "node",
+  "id": 4534001095,
+  "lat": 15.2521331,
+  "lon": 73.9348171,
+  "tags": {
+    "amenity": "atm"
+  }
+},
+{
+  "type": "node",
+  "id": 4535189412,
+  "lat": 15.3146342,
+  "lon": 73.9433222,
+  "tags": {
+    "amenity": "place_of_worship"
+  }
+},
+{
+  "type": "node",
+  "id": 4535189413,
+  "lat": 15.3108615,
+  "lon": 73.9448644,
+  "tags": {
+    "amenity": "school",
+    "name": "Carmel college",
+    "name:en": "Carmel college"
+  }
+},
+{
+  "type": "node",
+  "id": 4548118231,
+  "lat": 15.2891833,
+  "lon": 73.9634327,
+  "tags": {
+    "amenity": "atm",
+    "name": "ICICI Bank"
+  }
+},
+{
+  "type": "node",
+  "id": 4548118233,
+  "lat": 15.2891277,
+  "lon": 73.9634273,
+  "tags": {
+    "amenity": "car_rental",
+    "name": "Victor Enterprises"
+  }
+},
+{
+  "type": "node",
+  "id": 4548118249,
+  "lat": 15.2891910,
+  "lon": 73.9636298,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q2040323",
+    "brand:wikipedia": "en:IndusInd Bank",
+    "name": "IndusInd Bank",
+    "name:en": "IndusInd Bank",
+    "website": "https://www.indusind.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4548118250,
+  "lat": 15.2892104,
+  "lon": 73.9636452,
+  "tags": {
+    "amenity": "bank",
+    "brand": "HDFC",
+    "brand:wikidata": "Q631047",
+    "brand:wikipedia": "en:HDFC Bank",
+    "name": "HDFC Bank",
+    "short_name": "HDFC",
+    "website": "https://www.hdfcbank.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4548118251,
+  "lat": 15.2892395,
+  "lon": 73.9636505,
+  "tags": {
+    "amenity": "internet_cafe",
+    "name": "Cyber Plaza"
+  }
+},
+{
+  "type": "node",
+  "id": 4548122657,
+  "lat": 15.2905273,
+  "lon": 73.9639740,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Taste of Goa"
+  }
+},
+{
+  "type": "node",
+  "id": 4548125745,
+  "lat": 15.2893410,
+  "lon": 73.9636579,
+  "tags": {
+    "amenity": "doctors",
+    "name": "Dr. Ryan Colaco's Dental Care"
+  }
+},
+{
+  "type": "node",
+  "id": 4548145297,
+  "lat": 15.2848671,
+  "lon": 73.9774371,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Dental Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4548145304,
+  "lat": 15.2848568,
+  "lon": 73.9775042,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Kalika Bar and Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4548148362,
+  "lat": 15.2826195,
+  "lon": 73.9782912,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Saikrupa Dental Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4548726791,
+  "lat": 15.3093240,
+  "lon": 73.9458034,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Carmelite Convent",
+    "name:en": "Carmelite Convent",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 4549200293,
+  "lat": 15.2776082,
+  "lon": 73.9793056,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Pearl Star"
+  }
+},
+{
+  "type": "node",
+  "id": 4549200321,
+  "lat": 15.2824457,
+  "lon": 73.9783725,
+  "tags": {
+    "amenity": "dentist",
+    "name": "Dental Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4549200322,
+  "lat": 15.2824302,
+  "lon": 73.9783538,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "ONGC Dispensary"
+  }
+},
+{
+  "type": "node",
+  "id": 4549200345,
+  "lat": 15.2914937,
+  "lon": 73.9758808,
+  "tags": {
+    "amenity": "atm"
+  }
+},
+{
+  "type": "node",
+  "id": 4549215598,
+  "lat": 15.2944080,
+  "lon": 73.9748816,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q2003387",
+    "brand:wikipedia": "en:Corporation Bank",
+    "name": "Corporation Bank",
+    "name:en": "Corporation Bank",
+    "website": "https://corpbank.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4552435999,
+  "lat": 15.2829017,
+  "lon": 73.9688697,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Anjali Medical Store",
+    "name:en": "Anjali Medical Store"
+  }
+},
+{
+  "type": "node",
+  "id": 4552503289,
+  "lat": 15.2716993,
+  "lon": 73.9576267,
+  "tags": {
+    "amenity": "bank",
+    "brand": "Union Bank of India",
+    "brand:wikidata": "Q2004078",
+    "brand:wikipedia": "en:Union Bank of India",
+    "name": "Union Bank of India",
+    "name:en": "Union Bank of India",
+    "short_name": "UBI",
+    "website": "https://www.unionbankofindia.co.in/"
+  }
+},
+{
+  "type": "node",
+  "id": 4560525897,
+  "lat": 15.2779815,
+  "lon": 73.9266699,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Enter Jon Ron",
+    "name:en": "Enter Jon Ron"
+  }
+},
+{
+  "type": "node",
+  "id": 4560525898,
+  "lat": 15.2645395,
+  "lon": 73.9288175,
+  "tags": {
+    "amenity": "place_of_worship"
+  }
+},
+{
+  "type": "node",
+  "id": 4560561392,
+  "lat": 15.2788971,
+  "lon": 73.9248693,
+  "tags": {
+    "amenity": "place_of_worship"
+  }
+},
+{
+  "type": "node",
+  "id": 4560563794,
+  "lat": 15.2785160,
+  "lon": 73.9229456,
+  "tags": {
+    "amenity": "bar",
+    "name": "Merces bar",
+    "name:en": "Merces bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4560563795,
+  "lat": 15.2712810,
+  "lon": 73.9280298,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "Red Ginger",
+    "name:en": "Red Ginger"
+  }
+},
+{
+  "type": "node",
+  "id": 4560567692,
+  "lat": 15.2899214,
+  "lon": 73.9208581,
+  "tags": {
+    "amenity": "bar",
+    "name": "Menezes bar",
+    "name:en": "Menezes bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4563313891,
+  "lat": 15.2695181,
+  "lon": 73.9618469,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Sunshine udupi",
+    "name:en": "Sunshine udupi"
+  }
+},
+{
+  "type": "node",
+  "id": 4563329192,
+  "lat": 15.2692387,
+  "lon": 73.9628102,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Tourist",
+    "name:en": "Tourist"
+  }
+},
+{
+  "type": "node",
+  "id": 4563329693,
+  "lat": 15.2709359,
+  "lon": 73.9598809,
+  "tags": {
+    "amenity": "bank",
+    "brand": "Bank of Baroda",
+    "brand:wikidata": "Q2003797",
+    "brand:wikipedia": "en:Bank of Baroda",
+    "name": "Bank of Baroda",
+    "name:en": "Bank of Baroda",
+    "short_name": "BoB",
+    "website": "http://www.bankofbaroda.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4563330293,
+  "lat": 15.2737433,
+  "lon": 73.9582589,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q2044983",
+    "brand:wikipedia": "en:Federal Bank",
+    "name": "Federal Bank",
+    "name:en": "Federal Bank",
+    "website": "https://www.federalbank.co.in"
+  }
+},
+{
+  "type": "node",
+  "id": 4568537636,
+  "lat": 15.2732368,
+  "lon": 73.9575670,
+  "tags": {
+    "amenity": "bank",
+    "atm": "yes",
+    "brand:wikidata": "Q1340361",
+    "brand:wikipedia": "en:State Bank of India",
+    "name": "State Bank of India",
+    "short_name": "SBI",
+    "website": "https://www.sbi.co.in"
+  }
+},
+{
+  "type": "node",
+  "id": 4569290489,
+  "lat": 15.2333817,
+  "lon": 73.9431738,
+  "tags": {
+    "amenity": "atm",
+    "currency:INR": "yes",
+    "drive_through": "no",
+    "name": "Corporation Bank ATM",
+    "operator": "corporation bank"
+  }
+},
+{
+  "type": "node",
+  "id": 4569290493,
+  "lat": 15.2848421,
+  "lon": 73.9773336,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Kalika",
+    "name:en": "Kalika"
+  }
+},
+{
+  "type": "node",
+  "id": 4569290503,
+  "lat": 15.2915333,
+  "lon": 73.9647672,
+  "tags": {
+    "amenity": "doctors",
+    "name": "Dr. Bhushan B. lotlikar Dental Clinic",
+    "name:en": "Dr. Bhushan B. lotlikar Dental Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4569290691,
+  "lat": 15.2830860,
+  "lon": 73.9696758,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Choco craze",
+    "name:en": "Choco craze"
+  }
+},
+{
+  "type": "node",
+  "id": 4569290692,
+  "lat": 15.2829830,
+  "lon": 73.9651780,
+  "tags": {
+    "amenity": "car_rental",
+    "name": "Self driven car shop",
+    "name:en": "Self driven car shop"
+  }
+},
+{
+  "type": "node",
+  "id": 4569290989,
+  "lat": 15.2828368,
+  "lon": 73.9783115,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Sai Jeevan",
+    "name:en": "Sai Jeevan"
+  }
+},
+{
+  "type": "node",
+  "id": 4569290996,
+  "lat": 15.2911826,
+  "lon": 73.9640722,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Sunanda Cafe",
+    "name:en": "Sunanda Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 4569291190,
+  "lat": 15.2824320,
+  "lon": 73.9629510,
+  "tags": {
+    "amenity": "school",
+    "name": "Bloomz international school",
+    "name:en": "Bloomz international school"
+  }
+},
+{
+  "type": "node",
+  "id": 4569292289,
+  "lat": 15.2914759,
+  "lon": 73.9647455,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Fish Corner",
+    "name:en": "Fish Corner"
+  }
+},
+{
+  "type": "node",
+  "id": 4570317291,
+  "lat": 15.2599626,
+  "lon": 73.9274976,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional;sandwich;grill;asian;beef_bowl;pasta;russian;pizza;chicken;fish_and_chips;curry;indian;thai;fish;breakfast;seafood;local;chinese;italian;kebab",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "name": "Once upon a time",
+    "name:en": "Once upon a time",
+    "name:ru": "Давным давно",
+    "opening_hours": "Mo-Su 09:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4573205638,
+  "lat": 15.2904273,
+  "lon": 73.9642693,
+  "tags": {
+    "amenity": "bar",
+    "name": "Flavia",
+    "name:en": "Flavia"
+  }
+},
+{
+  "type": "node",
+  "id": 4574706593,
+  "lat": 15.2966195,
+  "lon": 73.9702966,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q1340361",
+    "brand:wikipedia": "en:State Bank of India",
+    "name": "State Bank of India",
+    "name:en": "State Bank of India",
+    "short_name": "SBI"
+  }
+},
+{
+  "type": "node",
+  "id": 4574708791,
+  "lat": 15.2969319,
+  "lon": 73.9701632,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Natekar chatpoint",
+    "name:en": "Natekar chatpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4574803293,
+  "lat": 15.2372731,
+  "lon": 73.9425468,
+  "tags": {
+    "amenity": "atm",
+    "operator": "Yes bank"
+  }
+},
+{
+  "type": "node",
+  "id": 4574847389,
+  "lat": 15.2586059,
+  "lon": 73.9453457,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Pedritos by the banyan",
+    "name:en": "Pedritos by the banyan"
+  }
+},
+{
+  "type": "node",
+  "id": 4577564291,
+  "lat": 15.2563648,
+  "lon": 73.9280821,
+  "tags": {
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "name": "Aryaas pure veg",
+    "name:en": "Aryaas pure veg",
+    "name:ru": "Aryaas Вегетарианский ресторан"
+  }
+},
+{
+  "type": "node",
+  "id": 4591949055,
+  "lat": 15.2869650,
+  "lon": 73.9203817,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "The Biryani House"
+  }
+},
+{
+  "type": "node",
+  "id": 4591962373,
+  "lat": 15.2779093,
+  "lon": 73.9212302,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 4591962377,
+  "lat": 15.2781211,
+  "lon": 73.9266639,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Savia C. Rodrigues (Dietician)"
+  }
+},
+{
+  "type": "node",
+  "id": 4591973711,
+  "lat": 15.2736381,
+  "lon": 73.9273921,
+  "tags": {
+    "amenity": "bank",
+    "name": "VPK Urban Coop Credit Society Ltd (Colva Branch)"
+  }
+},
+{
+  "type": "node",
+  "id": 4591973713,
+  "lat": 15.2735618,
+  "lon": 73.9274136,
+  "tags": {
+    "amenity": "atm",
+    "operator": "State Bank ATM"
+  }
+},
+{
+  "type": "node",
+  "id": 4591973714,
+  "lat": 15.2735437,
+  "lon": 73.9274203,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q1340361",
+    "brand:wikipedia": "en:State Bank of India",
+    "name": "State Bank of India (Colva)",
+    "short_name": "SBI"
+  }
+},
+{
+  "type": "node",
+  "id": 4591976034,
+  "lat": 15.2722219,
+  "lon": 73.9277879,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Liberty"
+  }
+},
+{
+  "type": "node",
+  "id": 4591977960,
+  "lat": 15.2625074,
+  "lon": 73.9296321,
+  "tags": {
+    "amenity": "fast_food",
+    "brand": "Domino's",
+    "brand:ks": "ڈومینوز",
+    "brand:pa": "ਡੋਮੀਨੋਜ਼",
+    "brand:ur": "ڈومینوز",
+    "brand:wikidata": "Q839466",
+    "brand:wikipedia": "en:Domino's Pizza",
+    "cuisine": "pizza",
+    "name": "Domino's",
+    "name:ks": "ڈومینوز",
+    "name:pa": "ਡੋਮੀਨੋਜ਼",
+    "name:ur": "ڈومینوز"
+  }
+},
+{
+  "type": "node",
+  "id": 4591977961,
+  "lat": 15.2624712,
+  "lon": 73.9296549,
+  "tags": {
+    "amenity": "bank",
+    "brand": "HDFC",
+    "brand:wikidata": "Q631047",
+    "brand:wikipedia": "en:HDFC Bank",
+    "name": "HDFC Bank",
+    "short_name": "HDFC",
+    "website": "https://www.hdfcbank.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4591990721,
+  "lat": 15.2611102,
+  "lon": 73.9298369,
+  "tags": {
+    "amenity": "community_centre",
+    "name": "Maria Hall"
+  }
+},
+{
+  "type": "node",
+  "id": 4591990722,
+  "lat": 15.2610601,
+  "lon": 73.9303153,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Hotel Satkar"
+  }
+},
+{
+  "type": "node",
+  "id": 4591990723,
+  "lat": 15.2611015,
+  "lon": 73.9302884,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q2003797",
+    "brand:wikipedia": "en:Bank of Baroda",
+    "name": "Bank of Baroda",
+    "name:en": "Bank of Baroda",
+    "short_name": "BoB",
+    "website": "http://www.bankofbaroda.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4591990724,
+  "lat": 15.2611688,
+  "lon": 73.9302683,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Benaulim Medial Stores"
+  }
+},
+{
+  "type": "node",
+  "id": 4591990725,
+  "lat": 15.2601365,
+  "lon": 73.9305935,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Eat Repeat"
+  }
+},
+{
+  "type": "node",
+  "id": 4591990730,
+  "lat": 15.2522907,
+  "lon": 73.9341679,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q1340361",
+    "brand:wikipedia": "en:State Bank of India",
+    "name": "State Bank of India",
+    "short_name": "SBI"
+  }
+},
+{
+  "type": "node",
+  "id": 4591990734,
+  "lat": 15.2513415,
+  "lon": 73.9356383,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Appetite Garden"
+  }
+},
+{
+  "type": "node",
+  "id": 4591995640,
+  "lat": 15.2485914,
+  "lon": 73.9373643,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Ramola Cafeteria"
+  }
+},
+{
+  "type": "node",
+  "id": 4591995641,
+  "lat": 15.2485375,
+  "lon": 73.9373990,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Geeta Hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4592019121,
+  "lat": 15.2390821,
+  "lon": 73.9418374,
+  "tags": {
+    "amenity": "atm",
+    "currency:INR": "yes",
+    "operator": "State Bank of India"
+  }
+},
+{
+  "type": "node",
+  "id": 4592019124,
+  "lat": 15.2371114,
+  "lon": 73.9425591,
+  "tags": {
+    "amenity": "bank",
+    "atm": "yes",
+    "brand": "Bank of India",
+    "brand:wikidata": "Q2004439",
+    "brand:wikipedia": "en:Bank of India",
+    "drive_through": "no",
+    "name": "Bank of India",
+    "name:en": "Bank of India",
+    "short_name": "BoI",
+    "website": "http://www.bankofindia.co.in"
+  }
+},
+{
+  "type": "node",
+  "id": 4592125059,
+  "lat": 15.2341923,
+  "lon": 73.9432699,
+  "tags": {
+    "amenity": "ice_cream",
+    "name": "Baskin Robbins"
+  }
+},
+{
+  "type": "node",
+  "id": 4592271414,
+  "lat": 15.2785021,
+  "lon": 73.9307183,
+  "tags": {
+    "amenity": "clinic",
+    "healthcare": "physiotherapist",
+    "name": "Anuja's Physiotherapy Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4592271415,
+  "lat": 15.2785085,
+  "lon": 73.9307504,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Laxmi Fast food centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4592271424,
+  "lat": 15.2787061,
+  "lon": 73.9326073,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Vaz Dental Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4592271428,
+  "lat": 15.2787384,
+  "lon": 73.9327682,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Amori"
+  }
+},
+{
+  "type": "node",
+  "id": 4592278254,
+  "lat": 15.2783178,
+  "lon": 73.9282998,
+  "tags": {
+    "amenity": "bank",
+    "brand": "IDBI",
+    "brand:wikidata": "Q3633485",
+    "brand:wikipedia": "en:IDBI Bank",
+    "name": "IDBI Bank",
+    "name:en": "IDBI Bank",
+    "old_name": "Industrial Development Bank of India",
+    "short_name": "IDBI",
+    "website": "https://www.idbi.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4592278256,
+  "lat": 15.2783256,
+  "lon": 73.9283937,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Seventeenth Avenue Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 4592278261,
+  "lat": 15.2783476,
+  "lon": 73.9284608,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Sai Punjabi Rasoi Pure Veg Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4592278265,
+  "lat": 15.2783961,
+  "lon": 73.9295039,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Anveet"
+  }
+},
+{
+  "type": "node",
+  "id": 4592289876,
+  "lat": 15.2659435,
+  "lon": 73.9410719,
+  "tags": {
+    "amenity": "bar",
+    "name": "Consil"
+  }
+},
+{
+  "type": "node",
+  "id": 4592289877,
+  "lat": 15.2650638,
+  "lon": 73.9418936,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Hrithika"
+  }
+},
+{
+  "type": "node",
+  "id": 4594619293,
+  "lat": 15.3011696,
+  "lon": 73.9196465,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Super medical store",
+    "name:en": "Super medical store"
+  }
+},
+{
+  "type": "node",
+  "id": 4597569092,
+  "lat": 15.2693637,
+  "lon": 73.9240903,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Ma-Mickey",
+    "name:en": "Ma-Mickey"
+  }
+},
+{
+  "type": "node",
+  "id": 4597569094,
+  "lat": 15.2759827,
+  "lon": 73.9214029,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Viva Goa",
+    "name:en": "Viva Goa"
+  }
+},
+{
+  "type": "node",
+  "id": 4597569095,
+  "lat": 15.2898564,
+  "lon": 73.9209547,
+  "tags": {
+    "amenity": "bar",
+    "name": "Mendes",
+    "name:en": "Mendes"
+  }
+},
+{
+  "type": "node",
+  "id": 4597569096,
+  "lat": 15.2941220,
+  "lon": 73.9207902,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Oshiann",
+    "name:en": "Oshiann"
+  }
+},
+{
+  "type": "node",
+  "id": 4597570290,
+  "lat": 15.2778845,
+  "lon": 73.9207672,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Ganesh Cafe",
+    "name:en": "Ganesh Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 4597570291,
+  "lat": 15.2817151,
+  "lon": 73.9206441,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Alex fast-food",
+    "name:en": "Alex fast-food"
+  }
+},
+{
+  "type": "node",
+  "id": 4602106261,
+  "lat": 15.2828457,
+  "lon": 73.9571492,
+  "tags": {
+    "amenity": "taxi",
+    "name": "Pilot Taxi Stand"
+  }
+},
+{
+  "type": "node",
+  "id": 4605858493,
+  "lat": 15.2778341,
+  "lon": 73.9138591,
+  "tags": {
+    "amenity": "bar",
+    "cuisine": "pasta;international;pizza;indian",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "name": "Pasta hut",
+    "name:hi": "Pasta hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4623101400,
+  "lat": 15.2703504,
+  "lon": 73.9645462,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Madrasa Jama Masjid",
+    "religion": "muslim"
+  }
+},
+{
+  "type": "node",
+  "id": 4624689670,
+  "lat": 15.2691125,
+  "lon": 73.9586452,
+  "tags": {
+    "amenity": "taxi",
+    "name": "Pilot Taxi Stand"
+  }
+},
+{
+  "type": "node",
+  "id": 4624833693,
+  "lat": 15.2730968,
+  "lon": 73.9576371,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q1340361",
+    "brand:wikipedia": "en:State Bank of India",
+    "name": "State Bank of India",
+    "name:en": "State Bank of India",
+    "short_name": "SBI"
+  }
+},
+{
+  "type": "node",
+  "id": 4629508124,
+  "lat": 15.2566353,
+  "lon": 73.9705401,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "catholic",
+    "name": "St. Sebastian's Chapel",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 4642152261,
+  "lat": 15.2762142,
+  "lon": 73.9573644,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "St. Sebastian's Chapel",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 4642152262,
+  "lat": 15.2744470,
+  "lon": 73.9555512,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "name": "Swagat",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4642152275,
+  "lat": 15.2741975,
+  "lon": 73.9517088,
+  "tags": {
+    "amenity": "college",
+    "internet_access": "wlan",
+    "name": "Damodar College of Commerce & Economics"
+  }
+},
+{
+  "type": "node",
+  "id": 4642152286,
+  "lat": 15.2743761,
+  "lon": 73.9513359,
+  "tags": {
+    "amenity": "college",
+    "name": "Kare Law College",
+    "wikidata": "Q18125245",
+    "wikipedia": "en:Govind Ramnath Kare College of Law"
+  }
+},
+{
+  "type": "node",
+  "id": 4665202987,
+  "lat": 15.2721843,
+  "lon": 73.9585258,
+  "tags": {
+    "amenity": "taxi",
+    "name": "Pilot Taxi Stand"
+  }
+},
+{
+  "type": "node",
+  "id": 4686351391,
+  "lat": 15.2789681,
+  "lon": 73.9220729,
+  "tags": {
+    "amenity": "atm",
+    "operator": "Bank of Baroda"
+  }
+},
+{
+  "type": "node",
+  "id": 4686351992,
+  "lat": 15.2790202,
+  "lon": 73.9223703,
+  "tags": {
+    "amenity": "library",
+    "name": "Panchayat Public Library",
+    "name:en": "Panchayat Public Library"
+  }
+},
+{
+  "type": "node",
+  "id": 4686352496,
+  "lat": 15.2789248,
+  "lon": 73.9220811,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q2003797",
+    "brand:wikipedia": "en:Bank of Baroda",
+    "name": "Bank of Baroda",
+    "name:en": "Bank of Baroda",
+    "short_name": "BoB",
+    "website": "http://www.bankofbaroda.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4686352497,
+  "lat": 15.2788867,
+  "lon": 73.9220024,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Canteen",
+    "name:en": "Canteen"
+  }
+},
+{
+  "type": "node",
+  "id": 4686399490,
+  "lat": 15.2789990,
+  "lon": 73.9223216,
+  "tags": {
+    "amenity": "school",
+    "name": "Government Middle School",
+    "name:en": "Government Middle School"
+  }
+},
+{
+  "type": "node",
+  "id": 4713014995,
+  "lat": 15.2786917,
+  "lon": 73.9296652,
+  "tags": {
+    "amenity": "doctors",
+    "name": "Dr.  Brennan Tavares",
+    "name:en": "Dr.  Brennan Tavares"
+  }
+},
+{
+  "type": "node",
+  "id": 4713044489,
+  "lat": 15.2817607,
+  "lon": 73.9606104,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Red lantern",
+    "name:en": "Red lantern"
+  }
+},
+{
+  "type": "node",
+  "id": 4713044490,
+  "lat": 15.2794380,
+  "lon": 73.9364665,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Pizza take away",
+    "name:en": "Pizza take away"
+  }
+},
+{
+  "type": "node",
+  "id": 4713044890,
+  "lat": 15.2786238,
+  "lon": 73.9296815,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Graceland",
+    "name:en": "Graceland"
+  }
+},
+{
+  "type": "node",
+  "id": 4713045089,
+  "lat": 15.2783588,
+  "lon": 73.9296049,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Cherry tomato",
+    "name:en": "Cherry tomato"
+  }
+},
+{
+  "type": "node",
+  "id": 4721382538,
+  "lat": 15.2389889,
+  "lon": 73.9418864,
+  "tags": {
+    "amenity": "atm",
+    "currency:INR": "yes",
+    "drive_through": "no",
+    "operator": "HDFC Bank"
+  }
+},
+{
+  "type": "node",
+  "id": 4721384345,
+  "lat": 15.2440446,
+  "lon": 73.9392508,
+  "tags": {
+    "addr:city": "Banaulim",
+    "amenity": "bank",
+    "atm": "yes",
+    "brand": "ICICI Bank",
+    "brand:wikidata": "Q1653258",
+    "brand:wikipedia": "en:ICICI Bank",
+    "drive_through": "no",
+    "name": "ICICI Bank",
+    "name:en": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "short_name": "ICICI",
+    "website": "https://www.icicibank.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4721384346,
+  "lat": 15.2440834,
+  "lon": 73.9392254,
+  "tags": {
+    "amenity": "atm",
+    "currency:INR": "yes",
+    "drive_through": "no",
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank"
+  }
+},
+{
+  "type": "node",
+  "id": 4730563980,
+  "lat": 15.2808014,
+  "lon": 73.9447552,
+  "tags": {
+    "amenity": "car_wash",
+    "name": "Vailankanni car washing and maintenance"
+  }
+},
+{
+  "type": "node",
+  "id": 4732437723,
+  "lat": 15.2586027,
+  "lon": 73.9236720,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese;indian;italian;international",
+    "internet_access": "wlan",
+    "name": "Valonias Wheels",
+    "name:en": "Valonias Wheels"
+  }
+},
+{
+  "type": "node",
+  "id": 4738283001,
+  "lat": 15.2562725,
+  "lon": 73.9193464,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Valonias"
+  }
+},
+{
+  "type": "node",
+  "id": 4738283271,
+  "lat": 15.2557432,
+  "lon": 73.9195020,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Parola"
+  }
+},
+{
+  "type": "node",
+  "id": 4739363721,
+  "lat": 15.2609353,
+  "lon": 73.9303112,
+  "tags": {
+    "amenity": "taxi"
+  }
+},
+{
+  "type": "node",
+  "id": 4747030330,
+  "lat": 15.2784546,
+  "lon": 73.9267285,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Prudential dental clinic",
+    "name:en": "Prudential dental clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4747030332,
+  "lat": 15.2782361,
+  "lon": 73.9268175,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Vaz",
+    "name:en": "Vaz"
+  }
+},
+{
+  "type": "node",
+  "id": 4747030333,
+  "lat": 15.2733988,
+  "lon": 73.9592694,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q2004088",
+    "name": "Syndicate Bank",
+    "name:en": "Syndicate Bank",
+    "website": "https://www.syndicatebank.in",
+    "wikidata": "Q2004088",
+    "wikipedia": "en:Syndicate Bank"
+  }
+},
+{
+  "type": "node",
+  "id": 4748201022,
+  "lat": 15.2885908,
+  "lon": 73.9534539,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Karishma",
+    "name:en": "Karishma"
+  }
+},
+{
+  "type": "node",
+  "id": 4755829206,
+  "lat": 15.2635126,
+  "lon": 73.9619141,
+  "tags": {
+    "amenity": "car_wash",
+    "name": "Car wash"
+  }
+},
+{
+  "type": "node",
+  "id": 4761463223,
+  "lat": 15.2824576,
+  "lon": 73.9783043,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q2040404",
+    "brand:wikipedia": "en:Kotak Mahindra Bank",
+    "name": "Kotak Mahindra Bank",
+    "name:en": "Kotak Mahindra Bank",
+    "website": "http://www.kotak.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4761463224,
+  "lat": 15.2828611,
+  "lon": 73.9784596,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Health oasis",
+    "name:en": "Health oasis"
+  }
+},
+{
+  "type": "node",
+  "id": 4763213174,
+  "lat": 15.2676464,
+  "lon": 73.9664455,
+  "tags": {
+    "amenity": "atm",
+    "brand": "Canara Bank",
+    "brand:pa": "ਕੇਨਰਾ ਬੈਂਕ",
+    "brand:ur": "کینرا بینک",
+    "brand:wikidata": "Q2003777",
+    "brand:wikipedia": "en:Canara Bank",
+    "brand:wikipedia:pa": "ਕੇਨਰਾ ਬੈਂਕ",
+    "name": "Canara Bank",
+    "name:pa": "ਕੇਨਰਾ ਬੈਂਕ",
+    "name:ur": "کینرا بینک"
+  }
+},
+{
+  "type": "node",
+  "id": 4769714021,
+  "lat": 15.2839834,
+  "lon": 73.9582877,
+  "tags": {
+    "amenity": "hospital",
+    "name": "OHS Orthopedic Hospital for Surgery",
+    "name:en": "OHS Orthopedic Hospital for Surgery"
+  }
+},
+{
+  "type": "node",
+  "id": 4790113522,
+  "lat": 15.2838758,
+  "lon": 73.9575885,
+  "tags": {
+    "amenity": "motorcycle_parking"
+  }
+},
+{
+  "type": "node",
+  "id": 4802879922,
+  "lat": 15.2810331,
+  "lon": 73.9562136,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Oorja Wellness Centre",
+    "name:en": "Oorja Wellness Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4805673127,
+  "lat": 15.2774714,
+  "lon": 73.9594661,
+  "tags": {
+    "amenity": "bureau_de_change",
+    "name": "Western union (Weizmann forex)",
+    "name:en": "Western union (Weizmann forex)"
+  }
+},
+{
+  "type": "node",
+  "id": 4805701721,
+  "lat": 15.2842438,
+  "lon": 73.9577879,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Dental Care - Dr.  Aaron Gomes",
+    "name:en": "Dental Care - Dr.  Aaron Gomes"
+  }
+},
+{
+  "type": "node",
+  "id": 4807780125,
+  "lat": 15.2783287,
+  "lon": 73.9302348,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Menino jesus",
+    "name:en": "Menino jesus"
+  }
+},
+{
+  "type": "node",
+  "id": 4807780126,
+  "lat": 15.2778168,
+  "lon": 73.9284072,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Ocean's residency",
+    "name:en": "Ocean's residency"
+  }
+},
+{
+  "type": "node",
+  "id": 4807818321,
+  "lat": 15.2783022,
+  "lon": 73.9294929,
+  "tags": {
+    "amenity": "bank",
+    "brand:wikidata": "Q2004088",
+    "name": "Syndicate Bank",
+    "name:en": "Syndicate Bank",
+    "website": "https://www.syndicatebank.in",
+    "wikidata": "Q2004088",
+    "wikipedia": "en:Syndicate Bank"
+  }
+},
+{
+  "type": "node",
+  "id": 4818374232,
+  "lat": 15.2919369,
+  "lon": 73.9539018,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Roadside dhaba",
+    "name:en": "Roadside dhaba"
+  }
+},
+{
+  "type": "node",
+  "id": 4857722522,
+  "lat": 15.2738350,
+  "lon": 73.9377251,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Siddivinayak",
+    "name:en": "Siddivinayak"
+  }
+},
+{
+  "type": "node",
+  "id": 4863298524,
+  "lat": 15.2768887,
+  "lon": 73.9203473,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Tulsi pure veg",
+    "name:en": "Tulsi pure veg"
+  }
+},
+{
+  "type": "node",
+  "id": 4863300121,
+  "lat": 15.2766267,
+  "lon": 73.9174083,
+  "tags": {
+    "addr:street": "Colva Beach Rd",
+    "amenity": "restaurant",
+    "cuisine": "fish;chinese;beef_bowl;chicken;indian;asian",
+    "name": "Dona Lila",
+    "name:en": "Dona Lila"
+  }
+},
+{
+  "type": "node",
+  "id": 4865537881,
+  "lat": 15.2834225,
+  "lon": 73.9579431,
+  "tags": {
+    "amenity": "courthouse",
+    "name": "District and Sessions Court"
+  }
+},
+{
+  "type": "node",
+  "id": 4872504021,
+  "lat": 15.2858106,
+  "lon": 73.9638132,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Shirodkars Fast-food",
+    "name:en": "Shirodkars Fast-food"
+  }
+},
+{
+  "type": "node",
+  "id": 4894842224,
+  "lat": 15.3049171,
+  "lon": 73.9481336,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Sfx",
+    "name:en": "Sfx"
+  }
+},
+{
+  "type": "node",
+  "id": 4894845122,
+  "lat": 15.2517676,
+  "lon": 73.9693356,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Onion restaurant",
+    "name:en": "Celebrity"
+  }
+},
+{
+  "type": "node",
+  "id": 4897033322,
+  "lat": 15.2827813,
+  "lon": 73.9573061,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Pinto Fast-food",
+    "name:en": "Pinto Fast-food"
+  }
+},
+{
+  "type": "node",
+  "id": 5001652316,
+  "lat": 15.2881665,
+  "lon": 73.9620994,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Domingo store"
+  }
+},
+{
+  "type": "node",
+  "id": 5058851924,
+  "lat": 15.2675486,
+  "lon": 73.9710932,
+  "tags": {
+    "amenity": "bank",
+    "brand": "Bank of Baroda",
+    "brand:wikidata": "Q2003797",
+    "name": "Bank of Baroda",
+    "name:en": "Bank of Baroda"
+  }
+},
+{
+  "type": "node",
+  "id": 5154806276,
+  "lat": 15.2827599,
+  "lon": 73.9784454,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Noble chemist and druggist"
+  }
+},
+{
+  "type": "node",
+  "id": 5168710144,
+  "lat": 15.2608461,
+  "lon": 73.9292486,
+  "tags": {
+    "amenity": "ice_cream",
+    "name": "Baskins & Robbins"
+  }
+},
+{
+  "type": "node",
+  "id": 5174778522,
+  "lat": 15.2608749,
+  "lon": 73.9293038,
+  "tags": {
+    "amenity": "bureau_de_change",
+    "name": "Global currency exchange"
+  }
+},
+{
+  "type": "node",
+  "id": 5198034814,
+  "lat": 15.2932470,
+  "lon": 73.9998407,
+  "tags": {
+    "amenity": "events_venue",
+    "name": "N eventz"
+  }
+},
+{
+  "type": "node",
+  "id": 5198038101,
+  "lat": 15.2944812,
+  "lon": 73.9875363,
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "chapel",
+    "name": "Chapel",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 5198044408,
+  "lat": 15.2884116,
+  "lon": 73.9821527,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Apollo Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 5198071515,
+  "lat": 15.2696553,
+  "lon": 73.9552666,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Sandeep"
+  }
+},
+{
+  "type": "node",
+  "id": 5198074315,
+  "lat": 15.2698651,
+  "lon": 73.9551090,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Medical store"
+  }
+},
+{
+  "type": "node",
+  "id": 5198074920,
+  "lat": 15.2725740,
+  "lon": 73.9540875,
+  "tags": {
+    "amenity": "place_of_worship",
+    "religion": "hindu"
+  }
+},
+{
+  "type": "node",
+  "id": 5198082444,
+  "lat": 15.2747479,
+  "lon": 73.9555656,
+  "tags": {
+    "amenity": "bank",
+    "name": "Kotak Mahindra Bank"
+  }
+},
+{
+  "type": "node",
+  "id": 5222722133,
+  "lat": 15.2779431,
+  "lon": 73.9586364,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional;indian;international",
+    "name": "Utsav (inside of Nanutel)",
+    "note": "Air-conditioned",
+    "opening_hours": "Mo-Su 11:00-15:00, 19:00-23:30",
+    "smoking": "no",
+    "website": "https://www.nanuhotels.in/FineDining.aspx?category=Utsav"
+  }
+},
+{
+  "type": "node",
+  "id": 5253960842,
+  "lat": 15.2787843,
+  "lon": 73.9793413,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Shree fast food"
+  }
+},
+{
+  "type": "node",
+  "id": 5285397928,
+  "lat": 15.2807019,
+  "lon": 73.9613761,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Aster hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 5286265227,
+  "lat": 15.2764850,
+  "lon": 73.9675166,
+  "tags": {
+    "amenity": "community_centre",
+    "name": "Nagesh AC Hall"
+  }
+},
+{
+  "type": "node",
+  "id": 5286288423,
+  "lat": 15.2764049,
+  "lon": 73.9694027,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Dreamland bar and restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 5286293321,
+  "lat": 15.2793080,
+  "lon": 73.9610226,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Cinnamon fast food restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 5289047122,
+  "lat": 15.2779104,
+  "lon": 73.9265747,
+  "tags": {
+    "amenity": "police",
+    "name": "Colva police station"
+  }
+},
+{
+  "type": "node",
+  "id": 5289047821,
+  "lat": 15.2777952,
+  "lon": 73.9267009,
+  "tags": {
+    "amenity": "driving_school",
+    "name": "Rodrick's driving school"
+  }
+},
+{
+  "type": "node",
+  "id": 5292936224,
+  "lat": 15.2906753,
+  "lon": 73.9609581,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Indulge"
+  }
+},
+{
+  "type": "node",
+  "id": 5324932321,
+  "lat": 15.2873089,
+  "lon": 73.9550191,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "The Chocolate Room",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5325055121,
+  "lat": 15.2895728,
+  "lon": 73.9635022,
+  "tags": {
+    "amenity": "dentist",
+    "name": "Studio 32"
+  }
+},
+{
+  "type": "node",
+  "id": 5325602080,
+  "lat": 15.2733693,
+  "lon": 73.9727180,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Margao medicare"
+  }
+},
+{
+  "type": "node",
+  "id": 5383047522,
+  "lat": 15.2516467,
+  "lon": 73.9208419,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "noodles;indian",
+    "name": "Rex's Place"
+  }
+},
+{
+  "type": "node",
+  "id": 5474491221,
+  "lat": 15.2621730,
+  "lon": 73.9639761,
+  "tags": {
+    "amenity": "school",
+    "name": "POSH English High School"
+  }
+},
+{
+  "type": "node",
+  "id": 5507062822,
+  "lat": 15.2765920,
+  "lon": 73.9581502,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Shesha Classic"
+  }
+},
+{
+  "type": "node",
+  "id": 5539731623,
+  "lat": 15.2607695,
+  "lon": 73.9286822,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "indian;curry;asian",
+    "internet_access": "wlan",
+    "name": "Yatra",
+    "name:ru": "Ятра",
+    "opening_hours": "Mo-Su 09:00-00:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5631842721,
+  "lat": 15.2730463,
+  "lon": 73.9588013,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Kandeel"
+  }
+},
+{
+  "type": "node",
+  "id": 5631842722,
+  "lat": 15.2773092,
+  "lon": 73.9621300,
+  "tags": {
+    "amenity": "ice_cream",
+    "name": "Marvel +Xerox +Stationary"
+  }
+},
+{
+  "type": "node",
+  "id": 5632072523,
+  "lat": 15.2902630,
+  "lon": 73.9640089,
+  "tags": {
+    "amenity": "driving_school",
+    "name": "Maruti driving school"
+  }
+},
+{
+  "type": "node",
+  "id": 5632106126,
+  "lat": 15.2903792,
+  "lon": 73.9644781,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Sharda"
+  }
+},
+{
+  "type": "node",
+  "id": 5793385553,
+  "lat": 15.2847987,
+  "lon": 73.9583836,
+  "tags": {
+    "amenity": "toilets",
+    "operator": "sulabh toilet complex"
+  }
+},
+{
+  "type": "node",
+  "id": 5793385653,
+  "lat": 15.2861663,
+  "lon": 73.9535442,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "With love"
+  }
+},
+{
+  "type": "node",
+  "id": 5940452085,
+  "lat": 15.2880381,
+  "lon": 73.9556391,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "KTC Bus stop"
+  }
+},
+{
+  "type": "node",
+  "id": 5940452185,
+  "lat": 15.2727063,
+  "lon": 73.9587145,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Bus na Margao"
+  }
+},
+{
+  "type": "node",
+  "id": 6150951785,
+  "lat": 15.2758959,
+  "lon": 73.9592747,
+  "tags": {
+    "amenity": "school",
+    "name": "English medium"
+  }
+},
+{
+  "type": "node",
+  "id": 6233171286,
+  "lat": 15.2881179,
+  "lon": 73.9552714,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Маргао - Панаджи Тикет"
+  }
+},
+{
+  "type": "node",
+  "id": 6239039385,
+  "lat": 15.2881445,
+  "lon": 73.9557534,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Автовус на Кармону"
+  }
+},
+{
+  "type": "node",
+  "id": 6240902985,
+  "lat": 15.2711098,
+  "lon": 73.9597318,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Музыка МР 3"
+  }
+},
+{
+  "type": "node",
+  "id": 6276862985,
+  "lat": 15.2607864,
+  "lon": 73.9287702,
+  "tags": {
+    "amenity": "ice_cream",
+    "name": "AMUL ICE CREAM PARLOR",
+    "opening_hours": "Mo-Su 09:30-22:30",
+    "phone": "+91-9823615400"
+  }
+},
+{
+  "type": "node",
+  "id": 6305617085,
+  "lat": 15.2582232,
+  "lon": 73.9862488,
+  "tags": {
+    "amenity": "bank",
+    "name": "ICICI bank"
+  }
+},
+{
+  "type": "node",
+  "id": 6336983185,
+  "lat": 15.2787221,
+  "lon": 73.9233908,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Kukki care polyclinic"
+  }
+},
+{
+  "type": "node",
+  "id": 6348904985,
+  "lat": 15.2665306,
+  "lon": 73.9163817,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "indian",
+    "internet_access": "wlan",
+    "name": "WHITE CRAB",
+    "name:ru": "БЕЛЫЙ КРАБ"
+  }
+},
+{
+  "type": "node",
+  "id": 6449094189,
+  "lat": 15.2700241,
+  "lon": 73.9285775,
+  "tags": {
+    "amenity": "cafe",
+    "name": "8"
+  }
+},
+{
+  "type": "node",
+  "id": 6449094190,
+  "lat": 15.2701381,
+  "lon": 73.9285287,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Billys"
+  }
+},
+{
+  "type": "node",
+  "id": 6487414085,
+  "lat": 15.2735424,
+  "lon": 73.9556807,
+  "tags": {
+    "amenity": "bureau_de_change"
+  }
+},
+{
+  "type": "node",
+  "id": 6496135697,
+  "lat": 15.2737907,
+  "lon": 73.9268607,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Durigo",
+    "opening_hours": "Mo-Su 12:00-14:45, 19:00-23:00",
+    "phone": "+91-8322788364"
+  }
+},
+{
+  "type": "node",
+  "id": 6497045885,
+  "lat": 15.2713535,
+  "lon": 73.9627388,
+  "tags": {
+    "amenity": "kindergarten",
+    "name": "El Shaddai"
+  }
+},
+{
+  "type": "node",
+  "id": 6528191385,
+  "lat": 15.2742023,
+  "lon": 73.9775537,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 6697004387,
+  "lat": 15.2838922,
+  "lon": 73.9719661,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Laxmi"
+  }
+},
+{
+  "type": "node",
+  "id": 6895136601,
+  "lat": 15.2794422,
+  "lon": 73.9605341,
+  "tags": {
+    "addr:city": "Margao",
+    "addr:district": "SOUTH GOA",
+    "addr:full": "Hospicio Hospital, Margao, Salcete, Goa",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "blood_bank",
+    "contact:mobile": "+91-9850456578",
+    "contact:phone": "+91-8322703801; +91-8322705664",
+    "email": "bloodbank_hh@yahoo.co.in",
+    "fax": "0832 2735972",
+    "name": "Hospicio Hospital Blood Bank",
+    "opening_hours": "24/7",
+    "operator:type": "government",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6908262660,
+  "lat": 15.2746777,
+  "lon": 73.9552577,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Is Floor, Vasant Arcade, Near Popular High School",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "hospital",
+    "name": "Sinai Clinic and Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6908308851,
+  "lat": 15.2738860,
+  "lon": 73.9624540,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Sapana Valey, Pajifond",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "hospital",
+    "name": "Adarsh Family Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6909502804,
+  "lat": 15.2868533,
+  "lon": 73.9774074,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Las Palmas Housing Estate, Gogol",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "hospital",
+    "name": "Trimurti General Hospital",
+    "source": "OpenGovernmentData"
+  }
+},
+{
+  "type": "node",
+  "id": 6987458785,
+  "lat": 15.2534228,
+  "lon": 73.9204164,
+  "tags": {
+    "addr:street": "Varca Road",
+    "amenity": "bar",
+    "cuisine": "chicken;diner;american;ice_cream;local;deli;barbecue;chinese;tea;japanese;burger;cake;sushi;international;italian_pizza;seafood;crepe;russian;asian;fish_and_chips;pancake;italian;sandwich;coffee_shop;curry;steak_house;fish;breakfast;grill;indian",
+    "email": "ankith@sochibeach.in",
+    "internet_access": "wlan",
+    "name": "Sochi Beach",
+    "opening_hours": "Mo-Su 08:00-02:00",
+    "phone": "+91-9130907713",
+    "website": "https://www.sochibeach.in/"
+  }
+},
+{
+  "type": "node",
+  "id": 6998054286,
+  "lat": 15.2764441,
+  "lon": 73.9583926,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Alcoholics Anonymous"
+  }
+},
+{
+  "type": "node",
+  "id": 7050767486,
+  "lat": 15.2879885,
+  "lon": 73.9555656,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "Маргао, Автовокзал"
+  }
+},
+{
+  "type": "node",
+  "id": 7131429085,
+  "lat": 15.2580005,
+  "lon": 73.9281183,
+  "tags": {
+    "amenity": "restaurant",
+    "name:fr": "Sky Roof Top"
+  }
+},
+{
+  "type": "node",
+  "id": 7131429185,
+  "lat": 15.2578838,
+  "lon": 73.9281173,
+  "tags": {
+    "amenity": "restaurant",
+    "name:fr": "Le Brillant"
+  }
+},
+{
+  "type": "node",
+  "id": 7132497086,
+  "lat": 15.2508116,
+  "lon": 73.9211378,
+  "tags": {
+    "amenity": "restaurant",
+    "name:fr": "Le People"
+  }
+},
+{
+  "type": "node",
+  "id": 7176655786,
+  "lat": 15.2578205,
+  "lon": 73.9282074,
+  "tags": {
+    "amenity": "restaurant",
+    "name:fr": "Roof Top"
+  }
+},
+{
+  "type": "node",
+  "id": 7176655787,
+  "lat": 15.2576930,
+  "lon": 73.9282074,
+  "tags": {
+    "amenity": "restaurant",
+    "name:fr": "Brilliant"
+  }
+},
+{
+  "type": "node",
+  "id": 7191052785,
+  "lat": 15.2522984,
+  "lon": 73.9289521,
+  "tags": {
+    "amenity": "restaurant",
+    "name:fr": "Venzy’s"
+  }
+},
+{
+  "type": "node",
+  "id": 7192681185,
+  "lat": 15.2523033,
+  "lon": 73.9288921,
+  "tags": {
+    "amenity": "restaurant",
+    "name:fr": "Venzy’s"
+  }
+},
+{
+  "type": "node",
+  "id": 7258183185,
+  "lat": 15.2722156,
+  "lon": 73.9746624,
+  "tags": {
+    "addr:street": "Aquem",
+    "amenity": "restaurant",
+    "name": "Gokul Veg Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260337,
+  "lat": 15.2823890,
+  "lon": 73.9588000,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Grebelo Road, Margao",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "hospital",
+    "name": "Holy Spirit Nursing Home",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260338,
+  "lat": 15.2748985,
+  "lon": 73.9555741,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Vasant Arcade, Comba, Margao",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "doctors",
+    "name": "Dr. Harshad",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260345,
+  "lat": 15.2928539,
+  "lon": 73.9674910,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "SBI Housing Colony, Cupangale Society, Margao",
+    "addr:postcode": "403602",
+    "addr:state": "Goa",
+    "amenity": "hospital",
+    "name": "Desai Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260349,
+  "lat": 15.2729424,
+  "lon": 73.9630303,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Pajifond, Margao",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "hospital",
+    "name": "Vintage Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260353,
+  "lat": 15.2748252,
+  "lon": 73.9555726,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Da Costa Road, Comba, Margao",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "clinic",
+    "name": "Dr. Harshad Kamat Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260355,
+  "lat": 15.2636320,
+  "lon": 73.9612590,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Margao",
+    "addr:postcode": "403707",
+    "addr:state": "Goa",
+    "amenity": "hospital",
+    "name": "Sunshine Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260357,
+  "lat": 15.2744172,
+  "lon": 73.9551890,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Regency Plaza, Comba, Margao",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "clinic",
+    "name": "Dr. Sharmad's Advanced Urology and Laproscopy Centre",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260362,
+  "lat": 15.2902980,
+  "lon": 73.9772790,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Cupangale Society, Margao",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "hospital",
+    "name": "Dr. Braganza's Maternity Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260366,
+  "lat": 15.2749443,
+  "lon": 73.9555816,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Vasant Arcade, Da Costa Road, Comba, Margao",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "clinic",
+    "name": "Dr. Nilkanth Shenvi Malkarnekar",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260369,
+  "lat": 15.2801821,
+  "lon": 73.9594879,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Nehrunagar, Margao",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "hospital",
+    "name": "Arcanjo Menezes Nursing Home",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260371,
+  "lat": 15.2880536,
+  "lon": 73.9825275,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Mutt Road, Margao",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "clinic",
+    "name": "Kamakshi Ayra Wellness Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260373,
+  "lat": 15.2911825,
+  "lon": 73.9637535,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Gawli Wada, Fatorda, Margao",
+    "addr:postcode": "403602",
+    "addr:state": "Goa",
+    "amenity": "doctors",
+    "name": "Dr. Hiremath",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260377,
+  "lat": 15.2899390,
+  "lon": 73.9798660,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Near Chowgule College, Gogol, Margao",
+    "addr:postcode": "403602",
+    "addr:state": "Goa",
+    "amenity": "doctors",
+    "name": "Dr. PD Nachinolker",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260378,
+  "lat": 15.2830773,
+  "lon": 73.9705889,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Vibhav Park, St. Joaquim Road, Borda",
+    "addr:postcode": "403602",
+    "addr:state": "Goa",
+    "amenity": "dentist",
+    "name": "Dr. Parkers Dental Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260379,
+  "lat": 15.2836450,
+  "lon": 73.9899547,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Gogol Housing Board, Margao",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "doctors",
+    "name": "Dr. Neelam Borkar",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260385,
+  "lat": 15.2721137,
+  "lon": 73.9582954,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Navelim, Margao",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "hospital",
+    "name": "Kudchadkar Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260390,
+  "lat": 15.2832055,
+  "lon": 73.9864850,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Gogol Housing Board, Margao",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "clinic",
+    "name": "Healthway Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260394,
+  "lat": 15.2742431,
+  "lon": 73.9565762,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Comba, Margao",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "doctors",
+    "name": "Dr. Brennan Tavares",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260397,
+  "lat": 15.2723740,
+  "lon": 73.9598390,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Panchratna Complex, Martires Dias Road, Margao",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "doctors",
+    "name": "Dr. Sielda Gomes",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260422,
+  "lat": 15.2865300,
+  "lon": 73.9806300,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Gogol, Margao",
+    "addr:postcode": "403602",
+    "addr:state": "Goa",
+    "amenity": "clinic",
+    "name": "Dr. Panandikar Eye Care Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260424,
+  "lat": 15.2832226,
+  "lon": 73.9690293,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Borda, Margao",
+    "addr:postcode": "403602",
+    "addr:state": "Goa",
+    "amenity": "hospital",
+    "name": "Noble Hospital",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260425,
+  "lat": 15.2883241,
+  "lon": 73.9817972,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Gogol, Borda, Margao",
+    "addr:postcode": "403601",
+    "addr:state": "Goa",
+    "amenity": "doctors",
+    "name": "Dr. Ameya Velingker",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7673260426,
+  "lat": 15.2926655,
+  "lon": 73.9869315,
+  "tags": {
+    "addr:district": "South Goa",
+    "addr:full": "Gogol, Margao",
+    "addr:postcode": "403602",
+    "addr:state": "Goa",
+    "amenity": "clinic",
+    "name": "Madhavbaug Multidisciplinary Cardic Care Clinic",
+    "source": "Local Knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 7701111186,
+  "lat": 15.2758383,
+  "lon": 73.9793360,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Ayur medical store"
+  }
+},
+{
+  "type": "node",
+  "id": 7947848689,
+  "lat": 15.2725727,
+  "lon": 73.9645207,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Peppers Gourmet"
+  }
+},
+{
+  "type": "node",
+  "id": 8008567385,
+  "lat": 15.2696342,
+  "lon": 73.9703416,
+  "tags": {
+    "amenity": "bar",
+    "name": "Pereira bar"
+  }
+},
+{
+  "type": "node",
+  "id": 8008577985,
+  "lat": 15.2735386,
+  "lon": 73.9556619,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Oasis"
+  }
+},
+{
+  "type": "node",
+  "id": 8008594185,
+  "lat": 15.2735077,
+  "lon": 73.9558242,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Well-O-City"
+  }
+},
+{
+  "type": "node",
+  "id": 8015501286,
+  "lat": 15.2766887,
+  "lon": 73.9580999,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Rice bowl"
+  }
+},
+{
+  "type": "node",
+  "id": 8096484517,
+  "lat": 15.2806275,
+  "lon": 73.9776981,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Kitchen art"
+  }
+},
+{
+  "type": "node",
+  "id": 8266180063,
+  "lat": 15.2533767,
+  "lon": 73.9569247,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Christabel's Pastelaria"
+  }
+},
+{
+  "type": "node",
+  "id": 8451844317,
+  "lat": 15.2721640,
+  "lon": 73.9719228,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Molio"
+  }
+},
+{
+  "type": "node",
+  "id": 8451844417,
+  "lat": 15.2724987,
+  "lon": 73.9770665,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Mahalaxmi"
+  }
+},
+{
+  "type": "node",
+  "id": 8451967817,
+  "lat": 15.2841564,
+  "lon": 73.9579751,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Divine Medicals"
+  }
+},
+{
+  "type": "node",
+  "id": 8452006518,
+  "lat": 15.2748618,
+  "lon": 73.9593861,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Gaylin",
+    "survey:date": "2023-09-14"
+  }
+},
+{
+  "type": "node",
+  "id": 8452006519,
+  "lat": 15.2746934,
+  "lon": 73.9593739,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Shels"
+  }
+},
+{
+  "type": "node",
+  "id": 8452006818,
+  "lat": 15.2714803,
+  "lon": 73.9663295,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Metro chemist and druggist"
+  }
+},
+{
+  "type": "node",
+  "id": 8452020417,
+  "lat": 15.2715762,
+  "lon": 73.9648993,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Roes medicare"
+  }
+},
+{
+  "type": "node",
+  "id": 8452020817,
+  "lat": 15.2716620,
+  "lon": 73.9622083,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Apollo pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 8463550718,
+  "lat": 15.2556208,
+  "lon": 73.9670003,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Orvnel"
+  }
+},
+{
+  "type": "node",
+  "id": 8463554817,
+  "lat": 15.2749902,
+  "lon": 73.9587624,
+  "tags": {
+    "amenity": "bureau_de_change",
+    "name": "Unimoni"
+  }
+},
+{
+  "type": "node",
+  "id": 8463559618,
+  "lat": 15.2750131,
+  "lon": 73.9586125,
+  "tags": {
+    "amenity": "bank",
+    "name": "Bank of Baroda"
+  }
+},
+{
+  "type": "node",
+  "id": 8496208417,
+  "lat": 15.2586660,
+  "lon": 73.9189250,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "The southern deck"
+  }
+},
+{
+  "type": "node",
+  "id": 8502616518,
+  "lat": 15.2551090,
+  "lon": 73.9673339,
+  "tags": {
+    "amenity": "bank",
+    "name": "Bank of India"
+  }
+},
+{
+  "type": "node",
+  "id": 8502645521,
+  "lat": 15.2658482,
+  "lon": 73.9602567,
+  "tags": {
+    "amenity": "fast_food",
+    "check_date": "2023-10-14",
+    "name": "A1"
+  }
+},
+{
+  "type": "node",
+  "id": 8502645719,
+  "lat": 15.2574671,
+  "lon": 73.9660448,
+  "tags": {
+    "amenity": "bar",
+    "name": "Fernandes bar"
+  }
+},
+{
+  "type": "node",
+  "id": 8502666017,
+  "lat": 15.2614686,
+  "lon": 73.9633322,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Angara"
+  }
+},
+{
+  "type": "node",
+  "id": 8502666317,
+  "lat": 15.2633790,
+  "lon": 73.9618675,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Grace care"
+  }
+},
+{
+  "type": "node",
+  "id": 8505862118,
+  "lat": 15.2576508,
+  "lon": 73.9659750,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Apollo"
+  }
+},
+{
+  "type": "node",
+  "id": 8505862317,
+  "lat": 15.2550114,
+  "lon": 73.9674178,
+  "tags": {
+    "amenity": "bank",
+    "name": "Icici bank"
+  }
+},
+{
+  "type": "node",
+  "id": 8505863018,
+  "lat": 15.2776782,
+  "lon": 73.9580232,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Confidental"
+  }
+},
+{
+  "type": "node",
+  "id": 8505887117,
+  "lat": 15.2776893,
+  "lon": 73.9578735,
+  "tags": {
+    "amenity": "ice_cream",
+    "name": "Baskins-Robbins Ice Cream Shop"
+  }
+},
+{
+  "type": "node",
+  "id": 8509984618,
+  "lat": 15.2928636,
+  "lon": 73.9558765,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Dawaat e Darbar"
+  }
+},
+{
+  "type": "node",
+  "id": 8510195217,
+  "lat": 15.2755291,
+  "lon": 73.9792549,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Urban dhaba"
+  }
+},
+{
+  "type": "node",
+  "id": 8520016417,
+  "lat": 15.2577883,
+  "lon": 73.9659158,
+  "tags": {
+    "amenity": "doctors",
+    "name": "Dr. Ryan Colaço Dental Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 8520204817,
+  "lat": 15.2575202,
+  "lon": 73.9659122,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Dr Piedade Fernandes Dental Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 8526997821,
+  "lat": 15.2721425,
+  "lon": 73.9577752,
+  "tags": {
+    "amenity": "bank",
+    "name": "Union Bank"
+  }
+},
+{
+  "type": "node",
+  "id": 8527018219,
+  "lat": 15.2636383,
+  "lon": 73.9617566,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Al akbar"
+  }
+},
+{
+  "type": "node",
+  "id": 8527020819,
+  "lat": 15.2585224,
+  "lon": 73.9655293,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Ocean world"
+  }
+},
+{
+  "type": "node",
+  "id": 8527023019,
+  "lat": 15.2705019,
+  "lon": 73.9590432,
+  "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-10-14",
+    "name": "Drogaria raicar"
+  }
+},
+{
+  "type": "node",
+  "id": 8527074718,
+  "lat": 15.2825915,
+  "lon": 73.9568890,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Kura and zoë",
+    "name:en": "Kyra and Zoë"
+  }
+},
+{
+  "type": "node",
+  "id": 8527083117,
+  "lat": 15.2341887,
+  "lon": 73.9760535,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Little flower"
+  }
+},
+{
+  "type": "node",
+  "id": 8527083917,
+  "lat": 15.2748384,
+  "lon": 73.9573433,
+  "tags": {
+    "amenity": "atm",
+    "check_date": "2023-10-14",
+    "operator": "yes bank"
+  }
+},
+{
+  "type": "node",
+  "id": 8527084017,
+  "lat": 15.2748719,
+  "lon": 73.9573987,
+  "tags": {
+    "amenity": "bank",
+    "name": "Yes bank"
+  }
+},
+{
+  "type": "node",
+  "id": 8540437317,
+  "lat": 15.2450607,
+  "lon": 73.9275286,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Ayurvedic clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 8540437417,
+  "lat": 15.2366477,
+  "lon": 73.9429080,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Vihan"
+  }
+},
+{
+  "type": "node",
+  "id": 8540680817,
+  "lat": 15.2481632,
+  "lon": 73.9364592,
+  "tags": {
+    "amenity": "bar",
+    "name": "S P Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 8810629218,
+  "lat": 15.2760374,
+  "lon": 73.9570942,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Silver spoon"
+  }
+},
+{
+  "type": "node",
+  "id": 8810629219,
+  "lat": 15.2725261,
+  "lon": 73.9625505,
+  "tags": {
+    "amenity": "doctors",
+    "name": "Dr. Antonio Figuerido"
+  }
+},
+{
+  "type": "node",
+  "id": 8810629421,
+  "lat": 15.2727112,
+  "lon": 73.9620932,
+  "tags": {
+    "amenity": "bank",
+    "name": "Indian Bank"
+  }
+},
+{
+  "type": "node",
+  "id": 8847584718,
+  "lat": 15.2768231,
+  "lon": 73.9561461,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Om nom"
+  }
+},
+{
+  "type": "node",
+  "id": 9748253520,
+  "lat": 15.3009367,
+  "lon": 73.9256641,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Cota Cozinha"
+  }
+},
+{
+  "type": "node",
+  "id": 9748253539,
+  "lat": 15.2744893,
+  "lon": 73.9550496,
+  "tags": {
+    "amenity": "bank",
+    "name": "NKGSB Coop Bank"
+  }
+},
+{
+  "type": "node",
+  "id": 9748253540,
+  "lat": 15.2744902,
+  "lon": 73.9550946,
+  "tags": {
+    "amenity": "bank",
+    "name": "IDFC First Bank"
+  }
+},
+{
+  "type": "node",
+  "id": 9748283822,
+  "lat": 15.2744916,
+  "lon": 73.9550712,
+  "tags": {
+    "amenity": "dentist",
+    "name": "Dr Nilosha Dental Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 9748284122,
+  "lat": 15.2745022,
+  "lon": 73.9550172,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Lunch house"
+  }
+},
+{
+  "type": "node",
+  "id": 9748284319,
+  "lat": 15.2746440,
+  "lon": 73.9550502,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Drogaria Colvalcar"
+  }
+},
+{
+  "type": "node",
+  "id": 9763994117,
+  "lat": 15.3016235,
+  "lon": 73.9480275,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "The woods"
+  }
+},
+{
+  "type": "node",
+  "id": 9764670517,
+  "lat": 15.2730269,
+  "lon": 73.9593828,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Wellness forever"
+  }
+},
+{
+  "type": "node",
+  "id": 10248230409,
+  "lat": 15.2553499,
+  "lon": 73.9649649,
+  "tags": {
+    "addr:postcode": "403707",
+    "addr:street": "Butica,Navelim,New Zariwaddo,Navelim,Goa",
+    "amenity": "college",
+    "name": "Rosary College of Commerce & Arts",
+    "opening_hours": "Tu-Sa,Mo 08:00-16:00",
+    "phone": "0832 270 1564",
+    "website": "http://rosarycollege.org",
+    "wikidata": "Q88781363"
+  }
+},
+{
+  "type": "node",
+  "id": 10301967409,
+  "lat": 15.2641564,
+  "lon": 73.9245843,
+  "tags": {
+    "amenity": "place_of_worship",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 10301967609,
+  "lat": 15.2637411,
+  "lon": 73.9171051,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "indian;international",
+    "internet_access": "wlan",
+    "name": "White Crab"
+  }
+},
+{
+  "type": "node",
+  "id": 10312677559,
+  "lat": 15.2731689,
+  "lon": 73.9273869,
+  "tags": {
+    "amenity": "atm",
+    "name": "SBI ATM"
+  }
+},
+{
+  "type": "node",
+  "id": 11073589324,
+  "lat": 15.2489257,
+  "lon": 73.9691425,
+  "tags": {
+    "amenity": "fuel",
+    "brand": "Hindustan Petroleum",
+    "brand:wikidata": "Q1619375",
+    "name": "Furtado Fuel Station",
+    "official_name": "Hindustan Petroleum"
+  }
+},
+{
+  "type": "node",
+  "id": 11160196873,
+  "lat": 15.3121627,
+  "lon": 73.9830493,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Lourdes Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 11189785289,
+  "lat": 15.2730869,
+  "lon": 73.9594542,
+  "tags": {
+    "amenity": "bank",
+    "name": "Bank of Baroda",
+    "survey:date": "2023-09-14"
+  }
+},
+{
+  "type": "node",
+  "id": 11200537638,
+  "lat": 15.2607024,
+  "lon": 73.9874469,
+  "tags": {
+    "amenity": "community_centre"
+  }
+},
+{
+  "type": "node",
+  "id": 11200537639,
+  "lat": 15.2605032,
+  "lon": 73.9873101,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Ganapathi Murugan Mandir",
+    "religion": "hindu"
+  }
+},
+{
+  "type": "node",
+  "id": 11346276469,
+  "lat": 15.2834761,
+  "lon": 73.9710388,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Kausars biryani"
+  }
+},
+{
+  "type": "node",
+  "id": 11346276470,
+  "lat": 15.2834802,
+  "lon": 73.9710694,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "bisleri"
+  }
+},
+{
+  "type": "node",
+  "id": 11357617669,
+  "lat": 15.2724256,
+  "lon": 73.9770980,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "preethi"
+  }
+},
+{
+  "type": "node",
+  "id": 11357634170,
+  "lat": 15.2773763,
+  "lon": 73.9652052,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "cinnamon"
+  }
+},
+{
+  "type": "node",
+  "id": 11365720569,
+  "lat": 15.2899504,
+  "lon": 73.9550766,
+  "tags": {
+    "amenity": "cafe",
+    "name": "cafe zelo"
+  }
+},
+{
+  "type": "node",
+  "id": 11502903469,
+  "lat": 15.2504674,
+  "lon": 73.9213847,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "internet_access": "wlan",
+    "name": "Sea Food Corner"
+  }
+},
+{
+  "type": "node",
+  "id": 11511572869,
+  "lat": 15.2565352,
+  "lon": 73.9334783,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name:ru": "Храм Лакшми"
+  }
+},
+{
+  "type": "node",
+  "id": 11539662369,
+  "lat": 15.2738512,
+  "lon": 73.9730807,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "dominos pizza"
+  }
+},
+{
+  "type": "node",
+  "id": 11557126069,
+  "lat": 15.2599683,
+  "lon": 73.9270611,
+  "tags": {
+    "addr:postcode": "403716",
+    "amenity": "fast_food",
+    "check_date": "2024-08-14",
+    "cuisine": "italian;italian_pizza",
+    "diet:non-vegetarian": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "drive_through": "no",
+    "internet_access": "wlan",
+    "name": "goodfellas",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "separated",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11578580270,
+  "lat": 15.2728064,
+  "lon": 73.9592733,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "la marina"
+  }
+},
+{
+  "type": "node",
+  "id": 11629971869,
+  "lat": 15.2721170,
+  "lon": 73.9577243,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "penguin"
+  }
+},
+{
+  "type": "node",
+  "id": 11629971969,
+  "lat": 15.2577326,
+  "lon": 73.9660877,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "texeira foods"
+  }
+},
+{
+  "type": "node",
+  "id": 11924835008,
+  "lat": 15.2748050,
+  "lon": 73.9564861,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "biryani house"
+  }
+},
+{
+  "type": "node",
+  "id": 11934109023,
+  "lat": 15.2649717,
+  "lon": 73.9599198,
+  "tags": {
+    "amenity": "charging_station",
+    "name": "Ather Grid"
+  }
+}
+
+  ]
+}

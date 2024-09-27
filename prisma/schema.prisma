@@ -1,0 +1,94 @@
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Admin {
+  id        String   @id @default(uuid())
+  phone     String   @unique
+  password  String
+  policeStationId String
+  policeStation PoliceStation @relation(fields: [policeStationId], references: [id])
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+
+model DutyOfficer {
+  id        String   @id @default(uuid())
+  phone     String   @unique
+  email     String   @unique
+  policeStationId String
+  policeStation PoliceStation @relation(fields: [policeStationId], references: [id])
+  password  String
+  joinBandobast joinBandobast[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model PoliceStation {
+  id       String   @id @default(uuid())
+  name     String   @unique
+  location String
+  DutyOfficer DutyOfficer[]
+  Admin    Admin[]
+  createdAt DateTime @default(now())
+}
+
+model Bandobast {
+  id             String   @id @default(uuid())
+  name           String
+  date           DateTime
+  startTime      DateTime
+  endTime        DateTime
+  location       String
+  description    String
+  teamName      String
+  joinBandobast joinBandobast[]
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+}
+
+
+model DutyAssignment {
+  id                String   @id @default(uuid())
+  platoon           String
+  officerName       String
+  mobileNumber      String
+  dutyLocation      String
+  supervisionOfficer String
+  charterOfDuty     String
+  timing            String
+  callSign          String
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+}
+
+
+model joinBandobast {
+  id        String   @id @default(uuid())
+  bandobastId String
+  bandobast Bandobast @relation(fields: [bandobastId], references: [id])
+  dutyOfficerId String
+  dutyOfficer DutyOfficer @relation(fields: [dutyOfficerId], references: [id])
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+
+model Patrolling {
+  id String @id @default(uuid())
+  name String 
+  route String[]
+  startTime DateTime
+  endTime DateTime
+  location String
+  description String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
