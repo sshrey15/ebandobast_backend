@@ -15,6 +15,7 @@ model Admin {
   batchId   String    @unique
   rank      String
   policeStationId String
+  meeting Meeting[]
   policeStation PoliceStation @relation(fields: [policeStationId], references: [id])
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
@@ -163,6 +164,26 @@ model Food {
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 }
+
+
+model Meeting {
+  id String @id @default(uuid())
+  adminId String
+  admin Admin @relation(fields: [adminId], references: [id])
+  sendtoId String
+  name String
+  date DateTime
+  time DateTime
+  location String
+  agenda String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+
+
+
+
 
 
 
