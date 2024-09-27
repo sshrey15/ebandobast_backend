@@ -1,10 +1,10 @@
 import {Router} from 'express';
-import {login_admin, login_dutyofficer} from '../controllers/auth.js';
+import {login_admin, login_dutyofficer,get_admin,get_dutyofficer} from '../controllers/auth.js';
 
 const router = Router();
 
-router.route('/admin_login').post(login_admin);
-router.route('/dutyofficer_login').post(login_dutyofficer);
+router.route('/admin').post(login_admin).get(get_admin);
+router.route('/dutyofficer').post(login_dutyofficer).get(get_dutyofficer);
 
 export default router;
 

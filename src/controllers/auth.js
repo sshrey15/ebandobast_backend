@@ -128,6 +128,28 @@ export async function login_admin(req, res, next) {
     }
   }
 
+  export async function get_admin(req, res, next) {
+    try {
+      const admins = await prisma.admin.findMany();
+      return res.status(200).json({ admins });
+    } catch (error) {
+      console.error(error);
+      return res.status(500).json({ error: "Internal server error" });
+    }
+  }
+  
+  export async function get_dutyofficer(req, res, next) {
+    try {
+      const dutyOfficers = await prisma.dutyOfficer.findMany();
+      return res.status(200).json({ dutyOfficers });
+    } catch (error) {
+      console.error(error);
+      return res.status(500).json({ error: "Internal server error" });
+    }
+  }
+
+  
+
 
   
 
