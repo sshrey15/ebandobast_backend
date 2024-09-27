@@ -5,9 +5,6 @@ import jwt from "jsonwebtoken";
 
 const prisma = new PrismaClient();
 
-async function sendFast2SMS(phone, otp){
-   
-}
 
 
 export async function login_admin(req, res, next) {
@@ -81,12 +78,12 @@ export async function login_admin(req, res, next) {
         return res.status(400).json({ error: "All fields are required" });
       }
   
-      const existing_admin = await prisma.dutyOfficer.findUnique({
+      const existing_dutyOfficer = await prisma.dutyOfficer.findUnique({
         where: { phone },
       });
   
-      console.log("existing_admin", existing_admin);
-      if (!existing_admin) {
+      console.log("existing_admin", existing_dutyOfficer);
+      if (!existing_dutyOfficer) {
         return res.status(400).json({ error: "Invalid credentials" });
       }
   
@@ -103,16 +100,16 @@ export async function login_admin(req, res, next) {
   
         const token = jwt.sign(
           {
-            id: existing_admin.id,
-            phone: existing_admin.phone,
+            id: existing_dutyOfficer.id,
+            phone: existing_dutyOfficer.phone,
           },
           process.env.JWT_SECRET,
           {
             expiresIn: "1d",
           }
         );
-        console.log("admin_token", token);
-        res.cookie("adminCookie", token, {
+        console.log("dutyOfficer_cookie", token);
+        res.cookie("dutyOfficerCookie", token, {
           httpOnly: true,
           secure: true,
           sameSite: "strict",

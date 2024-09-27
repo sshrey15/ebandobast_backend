@@ -12,13 +12,15 @@ model Admin {
   id        String   @id @default(uuid())
   name      String
   phone     String   @unique
-  batchId   String    @unique
+  batchId   String   @unique
   rank      String
   policeStationId String
-  meeting Meeting[]
   policeStation PoliceStation @relation(fields: [policeStationId], references: [id])
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
+
+  meetingsCreated Meeting[] @relation("MeetingsCreated")
+  meetingsReceived Meeting[] @relation("MeetingsReceived")
 }
 
 
@@ -168,9 +170,10 @@ model Food {
 
 model Meeting {
   id String @id @default(uuid())
-  adminId String
-  admin Admin @relation(fields: [adminId], references: [id])
-  sendtoId String
+  creatorId String
+  creator Admin @relation("MeetingsCreated", fields: [creatorId], references: [id])
+  receiverId String
+  receiver Admin @relation("MeetingsReceived", fields: [receiverId], references: [id])
   name String
   date DateTime
   time DateTime
