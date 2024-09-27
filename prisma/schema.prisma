@@ -23,11 +23,13 @@ model Admin {
 
 model DutyOfficer {
   id        String   @id @default(uuid())
+  name String
   phone     String   @unique
   batchId   String     @unique
   policeStationId String
+  rank String
   policeStation PoliceStation @relation(fields: [policeStationId], references: [id])
-  rank      String
+  
   joinBandobast joinBandobast[]
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
@@ -46,29 +48,68 @@ model Bandobast {
   id             String   @id @default(uuid())
   name           String
   date           DateTime
-  startTime      DateTime
-  endTime        DateTime
   location       String
   description    String
-  teamName       String
+  alertInfo      alertInfo[]
   joinBandobast joinBandobast[]
+  bandobastAssignment BandobastAssignment[]
+  coordinates coordinates[]
   createdAt      DateTime @default(now())
   updatedAt      DateTime @updatedAt
 }
 
 
-model DutyAssignment {
+model alertInfo {
+  id       String   @id @default(uuid())
+  description String
+  imgURL      String[]
+  location    String
+  bandobastId String
+  bandobast Bandobast @relation(fields: [bandobastId], references: [id])
+  patrolId String
+  patrol Patrolling @relation(fields: [patrolId], references: [id])
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+
+
+
+
+
+model BandobastAssignment {
   id                String   @id @default(uuid())
-  platoon           String
+  teamName           String  
   officerName       String
   mobileNumber      String
-  dutyLocation      String
   supervisionOfficer String
   charterOfDuty     String
-  timing            String
+  startTime         DateTime
+  endTime           DateTime
+  date             DateTime
   callSign          String
+  bandobastId       String
+  bandobast         Bandobast @relation(fields: [bandobastId], references: [id])
   createdAt         DateTime @default(now())
   updatedAt         DateTime @updatedAt
+}
+
+
+model coordinates {
+  id        String   @id @default(uuid())
+  teamName  String
+  latitude1  Float
+  longitude1 Float
+  latitude2  Float
+  longitude2 Float
+  latitude3  Float
+  longitude3 Float
+  latitude4  Float
+  longitude4 Float
+  bandobastId String
+  bandobast Bandobast @relation(fields: [bandobastId], references: [id])
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
 }
 
 
@@ -87,10 +128,42 @@ model Patrolling {
   id String @id @default(uuid())
   name String 
   route String[]
+  alertInfo alertInfo[]
+  vehicleNumber String
+  numofOfficers Int
+  patrolOfficers String[]
+  supervisor String
+  date DateTime
   startTime DateTime
   endTime DateTime
-  location String
   description String
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 }
+
+
+model FoodVendor {
+  id String @id @default(uuid())
+  name String
+  phone String @unique
+  location String
+  food Food[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Food {
+  id String @id @default(uuid())
+  name String
+  description String
+  price Int
+  imgURL String
+  foodVendorId String
+  foodVendor FoodVendor @relation(fields: [foodVendorId], references: [id])
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+
+
+
