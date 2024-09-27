@@ -10,8 +10,10 @@ datasource db {
 
 model Admin {
   id        String   @id @default(uuid())
+  name      String
   phone     String   @unique
-  password  String
+  batchId   String    @unique
+  rank      String
   policeStationId String
   policeStation PoliceStation @relation(fields: [policeStationId], references: [id])
   createdAt DateTime @default(now())
@@ -22,10 +24,10 @@ model Admin {
 model DutyOfficer {
   id        String   @id @default(uuid())
   phone     String   @unique
-  email     String   @unique
+  batchId   String     @unique
   policeStationId String
   policeStation PoliceStation @relation(fields: [policeStationId], references: [id])
-  password  String
+  rank      String
   joinBandobast joinBandobast[]
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
@@ -48,7 +50,7 @@ model Bandobast {
   endTime        DateTime
   location       String
   description    String
-  teamName      String
+  teamName       String
   joinBandobast joinBandobast[]
   createdAt      DateTime @default(now())
   updatedAt      DateTime @updatedAt
