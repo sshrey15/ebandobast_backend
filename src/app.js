@@ -1,8 +1,10 @@
 import express from "express";
 import authRouter from "./routes/authRoute.js";
-import patrolRoutes from "./routes/patrolRoutes.js"; // From patrolingAndMeeting branch
-import bandobastRouter from "./routes/bandobastRoute.js"; // From main branch
+import patrolRoutes from "./routes/patrolRoutes.js";
+import bandobastRouter from "./routes/bandobastRoute.js";
+import meetingRoutes from "./routes/meetingRoutes.js"; // Import meetingRoutes
 import dotenv from 'dotenv';
+import cookieParser from "cookie-parser";
 
 dotenv.config();
 
@@ -11,11 +13,13 @@ const app = express();
 
 // Middleware to parse JSON bodies
 app.use(express.json());
+app.use(cookieParser());
 
 // Routes
 app.use("/api/auth", authRouter);
-app.use("/api/patrols", patrolRoutes); // From patrolingAndMeeting branch
-app.use("/api/bandobast", bandobastRouter); // From main branch
+app.use("/api/patrols", patrolRoutes);
+app.use("/api/bandobast", bandobastRouter);
+app.use("/api/meetings", meetingRoutes); // Use meetingRoutes
 
 // Root route
 app.get("/", (req, res) => {
