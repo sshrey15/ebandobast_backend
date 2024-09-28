@@ -1,25 +1,34 @@
 import { PrismaClient } from '@prisma/client';
-import jwt from 'jsonwebtoken';
 
 const prisma = new PrismaClient();
 
 export const createMeeting = async (req, res) => {
   try {
-    console.log("Cookies: ", req.cookies); // Log cookies
-    const token = req.cookies.adminCookie ;
-    console.log("token", token);
-    if (!token) {
-      return res.status(401).json({ error: "Unauthorized" });
+    console.log("Request body:", req.body); // Log the request body
+
+    const { receiverId, name, date, time, location, agenda, creatorId } = req.body;
+
+    if (!receiverId || !name || !date || !time || !location || !agenda || !creatorId) {
+      console.log("Missing fields:", { receiverId, name, date, time, location, agenda, creatorId }); // Log missing fields
+      return res.status(400).json({ error: "All fields are required" });
     }
 
-    const decoded = jwt.verify(token, process.env.JWT_SECRET);
-    const creatorId = decoded.id;
-    console.log("creatorId", creatorId);
+    // Check if receiverId exists in Admin table
+    const receiverExists = await prisma.admin.findUnique({
+      where: { id: receiverId },
+    });
 
-    const { receiverId, name, date, time, location, agenda } = req.body;
+    if (!receiverExists) {
+      return res.status(400).json({ error: "Invalid receiverId" });
+    }
 
-    if (!receiverId || !name || !date || !time || !location || !agenda) {
-      return res.status(400).json({ error: "All fields are required" });
+    // Check if creatorId exists in Admin table
+    const creatorExists = await prisma.admin.findUnique({
+      where: { id: creatorId },
+    });
+
+    if (!creatorExists) {
+      return res.status(400).json({ error: "Invalid creatorId" });
     }
 
     const newMeeting = await prisma.meeting.create({
@@ -28,16 +37,17 @@ export const createMeeting = async (req, res) => {
         receiverId,
         name,
         date: new Date(date),
-        time: new Date(time),
+        time: new Date(time), // Ensure time is also a Date object
         location,
         agenda,
       },
     });
 
-    return res.status(201).json(newMeeting);
+    console.log('Created meeting:', newMeeting);
+    res.status(201).json(newMeeting);
   } catch (error) {
     console.error('Error creating meeting:', error);
-    return res.status(500).json({ error: 'Internal Server Error' });
+    res.status(500).json({ error: 'Internal server error' });
   }
 };
 
