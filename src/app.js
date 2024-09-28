@@ -8,6 +8,7 @@ import alertInfoRouter from "./routes/alertInfoRoute.js";
 import bandoAssRouter from "./routes/bandoAssRoute.js";
 import coordinatesRouter from "./routes/coordinatesRoute.js"; // Import the new router
 import dotenv from 'dotenv';
+import cors from 'cors';
 
 dotenv.config();
 
@@ -16,6 +17,7 @@ const app = express();
 
 app.use(express.json());
 app.use(cookieParser());
+app.use(cors());
 
 app.use("/api/auth", authRouter);
 app.use("/api/patrols", patrolRoutes);
