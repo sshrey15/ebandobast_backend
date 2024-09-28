@@ -9,7 +9,7 @@ const prisma = new PrismaClient();
 
 export async function login_admin(req, res, next) {
     try {
-      console.log("Request body:", req.body); // Add this line to log the request body
+       // Add this line to log the request body
   
       const { phone, batchId, rank } = req.body;
         
@@ -55,7 +55,7 @@ export async function login_admin(req, res, next) {
           maxAge: 86400000,
         });
   
-        const response = res.status(200).json({ token });
+        const response = res.status(200).json({ token, existing_admin });
         console.log("response", response);
       } catch (error) {
         console.error(error);
@@ -145,6 +145,46 @@ export async function login_admin(req, res, next) {
     } catch (error) {
       console.error(error);
       return res.status(500).json({ error: "Internal server error" });
+    }
+  }
+
+
+
+  export async function get_single_admin(req, res, next) {
+    const { id } = req.params;
+  
+    try {
+      const admin = await prisma.admin.findUnique({
+        where: { id },
+      });
+  
+      if (!admin) {
+        return res.status(404).json({ message: 'Admin not found' });
+      }
+  
+      return res.status(200).json({ admin });
+    } catch (error) {
+      console.error(error);
+      return res.status(500).json({ error: 'Internal server error' });
+    }
+  }
+  
+  export async function get_single_dutyofficer(req, res, next) {
+    const { id } = req.params;
+  
+    try {
+      const dutyOfficer = await prisma.dutyOfficer.findUnique({
+        where: { id },
+      });
+  
+      if (!dutyOfficer) {
+        return res.status(404).json({ message: 'Duty Officer not found' });
+      }
+  
+      return res.status(200).json({ dutyOfficer });
+    } catch (error) {
+      console.error(error);
+      return res.status(500).json({ error: 'Internal server error' });
     }
   }
 
