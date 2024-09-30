@@ -2,6 +2,7 @@ import { PrismaClient } from "@prisma/client";
 
 const prisma = new PrismaClient();
 
+
 export async function create_alertInfo(req,res,next){
     try{
         const {description, imgURL, location, bandobastId, patrolId} = req.body;

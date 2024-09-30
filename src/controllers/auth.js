@@ -55,7 +55,7 @@ export async function login_admin(req, res, next) {
           maxAge: 86400000,
         });
   
-        const response = res.status(200).json({ token, existing_admin });
+        const response = res.status(200).json({ token,existing_admin });
         console.log("response", response);
       } catch (error) {
         console.error(error);
@@ -116,7 +116,7 @@ export async function login_admin(req, res, next) {
           maxAge: 86400000,
         });
   
-        const response = res.status(200).json({ token });
+        const response = res.status(200).json({ token, existing_dutyOfficer });
         console.log("response", response);
       } catch (error) {
         console.error(error);

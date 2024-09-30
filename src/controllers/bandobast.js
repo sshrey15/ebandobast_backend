@@ -32,16 +32,49 @@ export async function create_bandobast(req,res,next){
 }
 
 
-export async function get_bandobast(req,res,next){
-    try{
-        const bandobast = await prisma.bandobast.findMany();
-        return res.status(200).json({bandobast});
-    }catch(err){
-        console.log(err);
-        console.log("Internal Server Error");
-        return res.status(500).json({error:"Internal Server Error"});
-    }
+
+export async function get_bandobast(req, res, next) {
+  try {
+    const bandobast = await prisma.bandobast.findMany({
+      include: {
+        alertInfo: true,
+        joinBandobast: true,
+        bandobastAssignment: true,
+        coordinates: true,
+      },
+    });
+    return res.status(200).json({ bandobast });
+  } catch (err) {
+    console.log(err);
+    console.log("Internal Server Error");
+    return res.status(500).json({ error: "Internal Server Error" });
+  }
 }
+
+export async function get_bandobast_by_id(req, res, next) {
+  try {
+    const { id } = req.params;
+    const bandobast = await prisma.bandobast.findUnique({
+      where: { id },
+      include: {
+        alertInfo: true,
+        joinBandobast: true,
+        bandobastAssignment: true,
+        coordinates: true,
+      },
+    });
+
+    if (!bandobast) {
+      return res.status(404).json({ error: "Bandobast not found" });
+    }
+
+    return res.status(200).json({ bandobast });
+  } catch (err) {
+    console.log(err);
+    return res.status(500).json({ error: "Internal Server Error" });
+  }
+}
+
 
 
 export async function join_bandobast(req, res, next) {
