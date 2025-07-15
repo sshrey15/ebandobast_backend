@@ -4,11 +4,11 @@
 
 ## 🏗️ System Architecture
 
-![eBandobast System Architecture](sysarch.png)
+![eBandobast System Architecture](/public/sysarch.png)
 
 ## 📊 Database Schema
 
-![eBandobast Database Schema](erdiagram.png)
+![eBandobast Database Schema](/public/erdiagram.png)
 
 ### Entity Relationship Overview
 
